@@ -5,6 +5,12 @@ CHANGELOG for 0.2.0
 
 0.2.0.9
 
+* (2014-01-14)
+
+ * award effected characters 10 Platinum each
+ * fix bug with scenario rewards
+ * fix bug with settlement starting resources
+
 * (2014-01-13)
 
  * fix bug with timer transitions
