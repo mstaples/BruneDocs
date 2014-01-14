@@ -5,6 +5,16 @@ CHANGELOG for 0.2.0
 
 0.2.0.8
 
+* (2014-01-13)
+
+ * fix bug with timer transitions
+ * adjust action message removal to prevent premature vanishing
+ * close forum when wrench menu selections made
+ * add instant refresh for theme changes
+ * improve message flow in preferences and build district errors
+ * fix bug with saving preferences in some browsers
+ * make top level of catalog accessible from navbar
+
 * (2014-01-12)
 
  * correct manage storage item messaging
