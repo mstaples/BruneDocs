@@ -3,7 +3,7 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
-0.2.0.8
+0.2.0.9
 
 * (2014-01-13)
 
@@ -14,6 +14,8 @@ CHANGELOG for 0.2.0
  * improve message flow in preferences and build district errors
  * fix bug with saving preferences in some browsers
  * make top level of catalog accessible from navbar
+
+0.2.0.8
 
 * (2014-01-12)
 
