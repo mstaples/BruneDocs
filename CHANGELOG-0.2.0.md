@@ -3,7 +3,7 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
-0.2.0.9
+0.2.0.10
 
 * (2014-01-15)
 
@@ -21,6 +21,11 @@ CHANGELOG for 0.2.0
  * remove tooltip titles from dialog close buttons
  * add option in preferences to turn on/off tutorial
  * fix bug preventing sovereigns from managing minister buildings
+
+0.2.0.9
+
+* (2014-01-14)
+
  * award effected characters 10 Platinum each
  * fix bug with scenario rewards
  * fix bug with settlement starting resources
