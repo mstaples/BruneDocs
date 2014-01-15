@@ -5,8 +5,22 @@ CHANGELOG for 0.2.0
 
 0.2.0.9
 
+* (2014-01-15)
+
+ * add cost notice to Build Faster construction option
+ * fix error displaying district population unemployed
+ * add population detail to building production options
+ * fix bug in settlement process forecast output calc
+ * fix bug creating duplicate world/settlement events
+ * make forums accessible from player page
+ * make forums accessible without login
+
 * (2014-01-14)
 
+ * fix bug with forum toggle when linking to author profile
+ * remove tooltip titles from dialog close buttons
+ * add option in preferences to turn on/off tutorial
+ * fix bug preventing sovereigns from managing minister buildings
  * award effected characters 10 Platinum each
  * fix bug with scenario rewards
  * fix bug with settlement starting resources
