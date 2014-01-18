@@ -5,6 +5,31 @@ CHANGELOG for 0.2.0
 
 0.2.0.10
 
+* (2014-01-17)
+
+ * change settlement deletion to remove wealth
+ * fix bug preventing purchase premium popup onclick
+ * fix bug displaying action forms in firefox
+ * fix bug with building staffing button in firefox
+ * fix bug displaying action forms in firefox
+ * fix bug displaying district building tabs in firefox
+
+* (2014-01-16)
+
+ * fealty cost for rank 1 from 4 to 2
+ * fix bug expiring World Forum
+ * fix bug with abandoned scenario threads not expiring
+ * add scenario info header to expired scenario threads
+ * add more info button to front page
+ * increase size of close button on settlement map
+
+* (2014-01-15)
+
+ * add new Hero images
+ * fix error displaying Hero profile image
+
+0.2.0.10
+
 * (2014-01-15)
 
  * add cost notice to Build Faster construction option
