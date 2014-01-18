@@ -3,6 +3,29 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.12
+
+* (2014-01-18)
+
+ * fix bug w leaderboard menus displaying under board
+ * added invite leaderboard
+ * added award claiming system
+ * added invite system
+ * adjust exile to confiscate wealth
+ * add world market restriction for new settlements
+ * add item name to title on building construction panel
+
+* (2014-01-17)
+
+ * fix bug preventing cancel sale in world market
+ * add 'Reports' to Manage dropdown in char navbar
+ * add cost to market purchase messages
+ * add message regarding construction material loss to cancel option
+ * add leaderboards to char wrench menu
+ * fix bug preventing toggle to profile view from leaderboard
+ * add Settlement Urbanization leaderboard
+ * add Settlement Potential leaderboard
+
 0.2.0.11
 
 * (2014-01-17)
