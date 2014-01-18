@@ -3,7 +3,7 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
-0.2.0.10
+0.2.0.11
 
 * (2014-01-17)
 
