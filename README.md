@@ -3,6 +3,6 @@ BruneDocs
 
 This project houses the public changelog for Brunelleschi: Age of Architects
 
-brunegame.com
+<a href="http://brunegame.com" target="_blank">brunegame.com</a>
 
-aesopgames.com
+<a href="http://aesopgames.com" target="_blank">aesopgames.com</a>
