@@ -3,6 +3,39 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.13
+
+* (2014-01-20)
+
+ * add Opinion voting to character Bios
+ * change Apples to Opinions
+ * adjust default pop: +5 Hero, +10 Peer, +50 Peasant
+ * fix bug w Harvest building bonus calculation
+ * fix bug w Harvest messaging
+ * fix bug w Bless Building messaging
+
+* (2014-01-19)
+
+ * fix bug preventing profile saving
+ * fix timer tabs in firefox
+ * fix bug blocking district details buttons
+ * fix bug preventing multiple building access in bonus view
+ * add action created Building bonuses to Forecast view
+ * remove erroneous level up message
+ * new hero images
+ * fix bug w Catalog image naming
+ * fix bug w Building Blueprint under construction css
+ * remove Platinum from Trade with Nomads returns
+ * fix bug w Catalog popup
+ * update Commander class names
+ * add custom 404
+ * add messaging for timed attribute bonus initiated by action
+
+* (2014-01-18)
+
+ * fix bug w invite leaderboard not loading w missing data
+ * fix bug w construction refreshing on select
+
 0.2.0.12
 
 * (2014-01-18)
