@@ -3,6 +3,34 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.14
+
+* (2014-01-21)
+
+ * fix bug preventing active linked scenarios from loading
+ * remove relations requirement from de-escalating diplomacy actions
+ * remove duplicate leave settlement action
+ * add update action access on settlement relations change
+ * remove zero returns from action output messaging
+ * fix bug w import/sales tax calculations
+ * fix bug w import passing at pledge / unpledge
+ * add paypal flow to ui
+ * take paypal options out of sandbox mode
+ * add confirm dialog to prevent accidental 'donate all'
+ * fix bug w relations wilderness
+ * add hero / lord rank leaderboards
+ * fix bug w messaging on last action
+ * fix bug selecting attributes from dialog
+ * fix bug with preferences displaying philosophy setting
+ * fix bug with action text records
+ * correct minor ap restore description
+
+* (2014-01-20)
+
+ * fix bug switching characters
+ * fix bug w global forum posting
+ * fix bug generating session character error
+
 0.2.0.13
 
 * (2014-01-20)
