@@ -3,6 +3,32 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.15
+
+* (2014-01-23)
+
+ * award daily gift even when still logged in
+ * fix Diplomacy cascading access
+ * adjust Commercial Report column spacing
+ * fix Catalog to open in main view area
+
+* (2014-01-22)
+
+ * fix bug preventing repeated 'donate all' actions
+ * add info menu to navbar
+ * add leading zeros on timer strings
+ * add actions to Catalog overview
+ * update 'Work Hard' bonus: static to percent
+ * fix bug w construction scroll costs repeating
+ * fix bug w overlapping building bonuses
+ * fix bug w cycle linked bonuses ending early
+ * fix bug w Settlement Forecast Process calculating bonus amount
+ * fix bug w Settlement Forecast Process not showing build bonuses
+ * add smarter targeting for 'Work Hard'
+ * initial coinbase integration
+ * fix bug w importance passing on hire/fire Minister
+ * update Generalissimo to Generalissimus
+
 0.2.0.14
 
 * (2014-01-21)
