@@ -22,6 +22,7 @@ CHANGELOG for 0.2.0
  * fix bug w construction scroll costs repeating
  * fix bug w overlapping building bonuses
  * fix bug w cycle linked bonuses ending early
+ * fix bug w getNextProcess bonus calculations
  * fix bug w Settlement Forecast Process not showing build bonuses
  * add smarter targeting for 'Work Hard'
  * initial coinbase integration
