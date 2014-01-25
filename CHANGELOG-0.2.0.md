@@ -3,6 +3,32 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.16
+
+* (2014-01-24)
+
+ * correct level-up read-out
+ * add Twitter invite option
+ * add character name option to invite function
+ * fix bug with source producing actions
+ * add MP cost to actions
+ * fix bug with market paging buttons
+ * correct dictionary to distinguish Rest from Rest Stop
+ * fix cross fealty check
+ * fix action display in firefox
+ * fix Friendly Settlement targeting
+ * add kill / death leaderboard
+ * fix bug in Ability Progression table generation
+ * fix bug with equipment downgrading
+ * fix bug with un-equipping
+ * fix bug with garrison upkeep
+
+* (2014-01-23)
+
+ * fix bug with garrison upkeep
+ * fix bug causing daily events to fire on day checks instead of day events
+ * fix bug allowing transport numbers to go negative
+
 0.2.0.15
 
 * (2014-01-23)
@@ -22,7 +48,7 @@ CHANGELOG for 0.2.0
  * fix bug w construction scroll costs repeating
  * fix bug w overlapping building bonuses
  * fix bug w cycle linked bonuses ending early
- * fix bug w getNextProcess bonus calculations
+ * fix bug w Settlement Forecast Process calculating bonus amount
  * fix bug w Settlement Forecast Process not showing build bonuses
  * add smarter targeting for 'Work Hard'
  * initial coinbase integration
