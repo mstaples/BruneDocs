@@ -3,6 +3,37 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.17
+
+* (2014-01-27)
+
+ * add ajax live chat
+
+* (2014-01-26)
+
+ * fix messaging on partial recruiting
+ * fix bug w upkeep minimums
+ * fix bug w Recruit Peer
+ * fix display bugs in Goods Catalog
+ * fix display bugs in Military Report
+ * fix unit upkeep bug
+
+* (2014-01-25)
+
+ * add Clear Filters in Markets
+ * add smart district filtering for Harvest, Income, Recruit building targeting
+ * fix bug with Facebook landing page
+ * fix Duel messaging
+ * add edit open Ministry notifications option
+ * add allow Lord of higher rank of specified class to accept Ministry
+ * fix Declare Enmity rank / costs / returns
+ * fix bug preventing Magic using actions
+
+* (2014-01-24)
+
+ * add Show/Hide option for Forum replies
+ * add Google invite option
+
 0.2.0.16
 
 * (2014-01-24)
