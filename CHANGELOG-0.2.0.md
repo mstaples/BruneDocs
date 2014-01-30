@@ -22,9 +22,6 @@ CHANGELOG for 0.2.0
 * (2014-01-28)
 
  * move chat to main panel
-
-0.2.0.17
-
  * fix bugs w chat on ipad / some browsers
 
 0.2.0.17
