@@ -3,6 +3,30 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.18
+
+* (2014-01-30)
+
+ * fix bug causing infinite spinning cursor
+ * integrate phpBB logins w players / characters
+
+* (2014-01-29)
+
+ * fix bug with Processing calculations
+ * fix bug with donate storage overflow
+ * add resource protection for new settlements
+ * fix bug w downgrade last building not destroying settlement
+ * add shut down Transport Recruit buildings when out of space
+ * fix unpledge fealty bug
+
+* (2014-01-28)
+
+ * move chat to main panel
+
+0.2.0.17
+
+ * fix bugs w chat on ipad / some browsers
+
 0.2.0.17
 
 * (2014-01-27)
