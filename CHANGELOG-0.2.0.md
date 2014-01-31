@@ -3,6 +3,34 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.19
+
+* (2014-01-31)
+
+ * fix bug with Caveat Emptor output
+ * fix bug causing repetition in Goods and Resources Catalog
+ * add OpenDyslexic to 'Font' options
+ * create 'Font' option under Preferences
+ * fix bug with forum excerpt display
+ * fix bug with invite links from Facebook
+ * fix Bulk Market buy button bug in Firefox
+ * fix Storage Details display bug in Firefox
+ * improve messaging in multi stage forms
+ * fix bug in Settlement Harvest Forecast
+ * fix district housing overflow
+ * fix type-os in Catalog
+ * remove zero staff buildings from display
+ * import addition Equipment descriptions
+ * import additional Action descriptions
+ * fix bug w immigration
+ * fix bug w employment
+ * add non-adjustable staffed buildings to Settlement Population details
+ * fix bug causing population to be invisibly unavailable
+
+* (2014-01-30)
+
+ * fix bug causing infinite spinning cursor
+
 0.2.0.18
 
 * (2014-01-30)
