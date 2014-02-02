@@ -3,6 +3,29 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.20
+
+* (2014-02-01)
+
+ * change Boat cost from Boards to Lumber
+ * add new icons for Banners, Ensigns, Flags, Pennants, Gonfalons, and Standards
+ * fix image name bug for Crossbow equipment
+ * add strict character naming rules to prevent duplicating
+ * add stacking of output for multiple action messaging
+ * fix bug making alert text invisible
+ * fix bug with Catalog making redundant calls (lag)
+ * fix bug in Catalog category toggle
+ * fix bug with output settings on some buildings
+ * fix bug with New Forums appearing through Facebook app in Windows
+ * fix bug with Forum Login / Registration
+
+* (2014-01-31)
+
+ * fix bug with Play Now option of facebook app
+ * fix bug with AJAXChat
+ * fix bug with Global market orders
+ * fix bug with Caveat Emptor costs
+
 0.2.0.19
 
 * (2014-01-31)
