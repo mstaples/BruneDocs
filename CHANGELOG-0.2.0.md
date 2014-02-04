@@ -3,6 +3,44 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.21
+
+* (2014-02-03)
+
+ * fix bug with Income buildings income cycle processing
+ * fix bug with leaderboards gender handling
+ * fix bug with Manage Storage item buttons in firefox
+ * add Open Ministry Post listing update on change
+ * fix bug with Edit Open Ministry Post button
+ * fix error with conditional action text
+ * update Help page contents
+ * correct bug with Trade Locally taxation calc
+ * add Any and Delete to Edit Open Ministry Post options
+ * prevent email address as username in New Forums
+ * add gendered Class names
+ * fix bug preventing cycle bonus expiration
+ * fix bug causing multiple Homelessness crisis
+
+* (2014-02-02)
+
+ * add Forum / Scenario menu update on select
+ * add new action Hunt Bandits
+ * update Perform Epic, remove Peasant award, add Bronze Litra award
+ * update Perform Ballad, lower Silver Drachmas award
+ * fix bug with bonus initiation messaging
+ * update Go Hunting, add Ped Birds to reward options
+ * update Bless Defenses, add Security bonus
+ * update Tame Animals action, add Livestock to reward options
+ * update action Collect Rocks output to rand(1-5)
+ * update Recruit Yeoman and Recruit Peasant relationship requirement, Security bonus
+ * update Train Vagabonds action out to one of (Churl, Vagabond, Hunter, Archer)
+ * fix new lord error
+ * fix bug targeting removed character with forum opinions
+
+* (2014-02-01)
+
+ * update Trap Animals awards to one of (pelt, game, fledgling, animal)
+
 0.2.0.20
 
 * (2014-02-01)
