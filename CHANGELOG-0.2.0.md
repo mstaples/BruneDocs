@@ -3,6 +3,35 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.22
+
+* (2014-02-05)
+
+ * add remove Market item type filter to remove all filters
+ * fix bug with Local and Platinum Markets
+ * fix bug with creating new Lord with Facebook on Chrome
+ * fix bug with Settlement Maps
+ * fix bug with pledge-fealty check
+ * fix bug with gendered name fetching catalog description
+ * fix bug with Facebook account creation
+ * fix bug with Unit image paths
+ * fix bugs with Paypal integration
+ * add Invite through Facebook w auto redeem
+
+* (2014-02-04)
+
+ * fix bug w District Happiness display in firefox
+ * add default theme to Chat
+ * add new attribute icons
+ * fix bug causing expired Upkeep cycles to hang
+ * fix bug w chat login
+ * integrate Chat and PhpBb Forum
+ * fix bug w cycle linked bonus processing
+
+* (2014-02-03)
+
+ * fix bug w new fight action default values
+
 0.2.0.21
 
 * (2014-02-03)
