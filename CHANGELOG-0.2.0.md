@@ -3,6 +3,41 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.23
+
+* (2014-02-07)
+
+ * fix bug w Friendly Settlement targeting
+ * fix Harvest / Process bonus percent calc
+ * fix bug w Bless Building bonus display
+ * fix bug w Bless Building
+ * fix bug w Building Upkeep
+ * fix Action Taxation messaging
+ * fix Action Taxation bug
+ * fix percentage display for Settlement Effects
+ * fix messaging for Bless City
+ * add row breaks on market offers
+ * fix bug w orphaned fight comments
+ * fix display next ability in level popup
+ * add default Settlement Map dimensions
+ * fix output ratio on Caveat Emptor
+ * fix bug w immigration happiness calc
+ * add basic action descriptions
+
+* (2014-02-06)
+
+ * fix bug w Quid pro Quo messaging
+ * fix bug w new CharBonus actions
+ * fix bug w immigration homeless calc
+ * rework Scenario combat to updated combat design
+ * rework Fight actions to updated combat design
+ * rework Dueling to updated combat design
+ * fix bug w immigration bonus calc
+ * fix bug w immigration housing calc
+ * fix bug w Equipment image name
+ * fix bug w give population action messaging
+ * fix bug w give population actions
+
 0.2.0.22
 
 * (2014-02-05)
