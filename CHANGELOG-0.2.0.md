@@ -3,6 +3,33 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.24
+
+* (2014-02-09)
+
+ * add Game Offers separate from normal Market
+ * fix bug w Sovereign / Minister building ownership
+ * correct Ranged Spell Catalog image paths
+ * fix bug Upkeep bonuses
+
+* (2014-02-08)
+
+ * fix bug with bio apples display
+ * fix bug with bonus expiration
+ * fix bug with can construct detection
+ * correct equipment image names
+ * fix bugs w building display in firefox
+ * fix bugs w district display in firefox
+ * improve targeting for Bless District and Bless Building
+ * fix bug w Yeomen immigration
+ * fix error accessing district icons after initial load in firefox
+ * fix error accessing scenarios
+ * fix upgrade building bug
+
+* (2014-02-07)
+
+ * fix bug w missing building settings
+
 0.2.0.23
 
 * (2014-02-07)
