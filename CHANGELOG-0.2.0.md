@@ -3,6 +3,31 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.25
+
+* (2014-02-11)
+
+ * fix bugs w email Ministry Invite
+ * fix bugs w Action messaging
+ * remove player accounts from forum
+ * integrate Karma mod with opinion system
+ * add Karma mod
+
+* (2014-02-10)
+
+ * add version
+ * fix bug w Action messaging
+ * adjust Peer population happiness effect
+ * adjust Peer population employment
+ * fix bug w Sovereign / Ministry building ownership
+ * fix bug placing Bulk Market Sales
+ * fix bug w Leader Board access
+
+* (2014-02-09)
+
+ * fix bug viewing Bulk Market Sales
+ * fix Market Seller info image path
+
 0.2.0.24
 
 * (2014-02-09)
