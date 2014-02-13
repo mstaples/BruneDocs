@@ -3,6 +3,25 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.0.26
+
+* (2014-02-13)
+
+ * fix Harvest Taxation income message routing
+
+* (2014-02-12)
+
+ * integrate Scenarios with New Forum
+ * add generated World topics / posts to New Forum
+ * add generated Settlement topics / posts to New Forum
+ * add generated Character topics / posts to New Forum
+
+* (2014-02-11)
+
+ * fix bug w Palisade Line district access
+ * detect/replace some action message wildcards with data
+ * fix bugs w Kill Leader Board
+
 0.2.0.25
 
 * (2014-02-11)
