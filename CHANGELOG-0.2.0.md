@@ -3,6 +3,24 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.0
+
+* (2014-02-14)
+
+ * integrate Anonymous/Player forum nav w New Forum
+ * add owned game topic post deletion
+ * add Scenario Panel toggle
+ * integrate Dueling w New Forum
+ * integrate NPC Combat w New Forum
+ * integrate Proposals and Declarations w New Forum
+ * integrate Action Messaging w New Forum
+
+* (2014-02-13)
+
+ * add Relationship icons
+ * fix bug w Distribute to Friends
+ * fix bug w Scenario Panel
+
 0.2.0.26
 
 * (2014-02-13)
