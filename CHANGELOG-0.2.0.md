@@ -3,6 +3,27 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.1
+
+* (2014-02-15)
+
+ * bring Guard Duty bonus in line w design doc / catalog
+ * add initial rank 1 Retainer icons
+ * fix bug in Military action menu
+ * adjust Hunt Bandits messaging
+ * fix bug w Harvest Forecast bonus data consolidation
+ * fix bug w Minister bonus display
+ * fix bug w Efficient Harvest bonus calc
+ * fix bug w Harvest action
+ * fix bug w Construction messaging
+ * fix bug w extraneous game generated Topics
+ * fix bug w named Topic creation
+ * update Relationship icons
+ * fix bug w Scenario menu
+ * fix bug w Symposium action targeting
+ * fix bug w Symposium action output
+ * fix navbar title link
+
 0.2.1.0
 
 * (2014-02-14)
