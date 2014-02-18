@@ -3,6 +3,34 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.2
+
+* (2014-02-17)
+
+ * fix bug w Scenario data access on error
+ * add reset upkeep record on successful upkeep
+ * fix bug w canConstruct
+ * fix bug w Sell in Bulk from Storage
+ * fix bug w Upkeep
+
+* (2014-02-16)
+
+ * fix bug w triggering Happiness effects
+ * fix bug w overflow on Move dialog
+ * fix bug w Linked building bonuses
+ * fix bug w Unit build mode route
+ * fix bug w Market: sort by Equipment
+ * fix bug w select Character
+ * fix bug w Regeneration
+ * fix bug w Bonus Scope popup
+ * add Bonus data to Upkeep Forecasts
+ * fix bug w Forum excerpts
+ * add Upkeep Forecasts
+
+* (2014-02-15)
+
+ * add Consolidated Harvest Messaging
+
 0.2.1.1
 
 * (2014-02-15)
