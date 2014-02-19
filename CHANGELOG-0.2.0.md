@@ -3,6 +3,49 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.3
+
+* (2014-02-18)
+
+ * fix overflow bug on 'Move' page
+
+* (2014-02-19)
+
+ * fix bug w Open Role form
+ * fix bugs w Event Timers
+ * fix bugs w Construct evet
+ * fix bugs w equip Confessor
+ * fix bugs w Filter for Equipment in Markets
+ * fix bugs w 100th level equipment slots
+ * fix bug w Industrial Reports
+ * fix bug w PePbuild building bonus display
+ * fix bug preventing Heroes from having Fealty cost
+ * fix bug preventing building level from effecting bonus
+
+* (2014-02-18)
+
+ * fix overflow bug on 'Move' page
+ * slow Happiness Effects events to daily
+ * fix bug w Active Scenarios menu launch
+ * add link to Active Scenarios in summary panel
+ * fix bugs w Scenario timer display
+ * fix bugs w Happiness Scenarios
+ * add Retainer icons
+ * fix bugs w Happiness Population Effects
+ * fix bug w Distribute Currency
+
+* (2014-02-17)
+
+ * add consolidated Personal Army Upkeep messaging
+ * add consolidated Garrison Upkeep messaging
+ * add update Govern Garrison on select
+ * fix Scenario title in menus
+ * fix Distribute Wealth bug
+ * fix bug w BPA calc
+ * fix bug w remove building on upkeep fail
+ * fix bug w Equipment Upkeep forecast
+ * add consolidated Building Upkeep messaging
+
 0.2.1.2
 
 * (2014-02-17)
