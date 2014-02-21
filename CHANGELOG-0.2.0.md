@@ -3,11 +3,49 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.4
+
+* (2014-02-21)
+
+ * add email invitation
+ * add consolidate fight opponent troop display
+ * add Hunt Rabble action
+ * add Militia and Longbowman to Hunt Bandits opponent options
+ * update Caveat Emptor output
+ * add District titles to Garrison Upkeep Forecast
+ * fix bugs w verbose Garrison / Army Upkeep Forecasts
+ * fix bug w Recruit cycles
+ * update all Transport output
+ * update Boat Recruit cost
+
+* (2014-02-20)
+
+ * update Happiness Effects chance calculation
+ * fix bug w Recruit building unit placement
+ * fix bug w Garrison Upkeep Forecast
+ * fix bug w Army Upkeep Forecast
+ * fix bug w General Store
+ * fix bug w automated emailer
+ * update Construction Costs calculation
+ * update Construction Times calculation
+ * update Capacity calculation
+ * add Max Garrison to district overview display
+ * fix bug w max Garrison calculation
+ * fix bug w add to Garrison actions
+ * fix bug w Personal Army Gear
+ * fix bug w initiating timed Councils
+
+* (2014-02-19)
+
+ * add prevent Declare War on Liege's Settlement
+ * fix bug w missing Happiness Building Bonuses
+ * fix bug w Importance change from Withdraw Fealty
+ * add PledgeData tracking for safe fealty changes
+ * add Sovereign to Sovereign pledge import cap
+ * fix bug w Donate from Storage button
+ * add additional safeguards to Building Upkeep
+
 0.2.1.3
-
-* (2014-02-18)
-
- * fix overflow bug on 'Move' page
 
 * (2014-02-19)
 
