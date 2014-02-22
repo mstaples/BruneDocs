@@ -3,6 +3,34 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.5
+
+* (2014-02-22)
+
+ * update Disrespectful Peasants scenario text
+ * fix bug w Hire Vagabond action output
+ * fix bug w Manage->Gear unlocked Class Gear equip / unequip
+ * update Trade w Mountain Folk action
+ * update Collect Rocks action
+ * update Trade w Nomads action
+ * update Caveat Emptor action
+ * add Daily Rewards admin tool
+ * fix bug w missing building controls
+
+* (2014-02-21)
+
+ * add Fight in the Pit action
+ * add Trade w Fae action
+ * add Trade w Wizards actions
+ * fix bug w Action MP / HP consumption
+ * fix bug w Boats resource / goods output
+ * add Buy Food from Hillfolk action
+ * add Trade w Mountain Folk action
+ * add Trade w Forest Folk action
+ * add Trade w Barbarians action
+ * add Gather Food action
+ * fix bug in Construct cycle
+
 0.2.1.4
 
 * (2014-02-21)
