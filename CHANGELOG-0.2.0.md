@@ -7,6 +7,9 @@ CHANGELOG for 0.2.0
 
 * (2014-02-22)
 
+ * correct Groceries Catalog description
+ * add prevent repeat Declare Enmity on same target
+ * add prevent apples on own Bio
  * fix bug with Trading Gear
  * fix bug with ActResults unit base level
  * update Disrespectful Peasants scenario text
