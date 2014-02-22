@@ -7,6 +7,7 @@ CHANGELOG for 0.2.0
 
 * (2014-02-22)
 
+ * update Trade with Forest Folk
  * correct Groceries Catalog description
  * add prevent repeat Declare Enmity on same target
  * add prevent apples on own Bio
