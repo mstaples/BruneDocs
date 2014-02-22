@@ -7,6 +7,8 @@ CHANGELOG for 0.2.0
 
 * (2014-02-22)
 
+ * fix bug with Trading Gear
+ * fix bug with ActResults unit base level
  * update Disrespectful Peasants scenario text
  * fix bug w Hire Vagabond action output
  * fix bug w Manage->Gear unlocked Class Gear equip / unequip
