@@ -3,6 +3,30 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.6
+
+* (2014-02-23)
+
+ * update Sell Building action
+ * update Trade with Wizards action
+ * update Trade with Fae action
+ * update Trade with Mountain Folk action
+ * update Trade with Forest Folk action
+ * update Trade with Barbarian action
+ * update Fight in the Pit action
+ * update Trap Animals action
+ * fix Belt Catalog image names
+ * add Deconstruct Item action
+ * add App links to login page
+ * fix bug with Cancel Account Request
+
+* (2014-02-22)
+
+ * add 1 Health minimum to Action requirements calc
+ * fix Storage Decay to prevent timed Event lag
+ * fix Regeneration to prevent timed Event lag
+ * fix bug w Pledge Fealty to Resident Lord
+
 0.2.1.5
 
 * (2014-02-22)
