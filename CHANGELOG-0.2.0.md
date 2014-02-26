@@ -3,6 +3,52 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.7
+
+* (2014-02-26)
+
+ * add Building Level to Recruit Building output calc
+ * add Building Level to Income Building output calc
+ * fix bug in Work on Vineyard output calc
+ * fix Crest Equipment image names
+ * fix bug causes some Resources to also appear under Goods in Catalog
+ * update Wall St. District name to De Beurs District
+ * add max/current Districts to Construct New Districts display
+ * add 'Always Ask' default to Duel preferences
+ * add Bonus Data to District construction costs display
+ * add Bonus Data to Building upgrade costs display
+ * add Bonus Data to Building construction costs display
+
+* (2014-02-25)
+
+ * fix bug w District Process, Craft, Recruit Forecast display
+ * fix bug w Troop Upkeep
+ * fix bug w max/has Garrison check for Troop transfer
+ * fix bug in Personal Army Upkeep monetary cost calc
+ * add unit amount to Garrison Upkeep Forecast
+ * fix bug w Trained Unit placement
+ * fix bug w Garrison Upkeep costs
+ * fix bug w Cancel Building Downgrade
+ * fix bug w District Bonuses from ActAttribTimedCalc output actions
+ * fix bug w Fight stacking
+ * fix bug w Heal the Sick and Collect Income actions
+ * fix bug w Perform Ballad action
+
+* (2014-02-24)
+
+ * fix bug w Transaction Reporting
+ * fix bug w Fight Rabble
+ * fix bug w Upgraded building staffing
+ * fix bug w forwarding after giving Forum Karma
+ * update Harvest Festival action
+ * update Harvest action
+ * update Go Hunting action
+ * update Go Fishing action
+
+* (2014-02-23)
+
+ * fix bug creating multiple Friendship records from mutual requests
+
 0.2.1.6
 
 * (2014-02-23)
