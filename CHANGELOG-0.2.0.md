@@ -3,6 +3,31 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.8
+
+* (2014-02-28)
+
+ * add Income Forecast to Commerce Reports
+ * fix bug w Hero Forecasts
+ * fix bug w Minister Forecasts
+ * add time until max ap to Vitals display
+
+* (2014-02-27)
+
+ * fix bug w Book Catalog link
+ * fix bug w Crafting Reports
+ * fix bug w Capacity Overflow
+ * fix bug w Settlement Forum permissions
+ * add limit Rank 0.5 action access to under 150th level
+ * add Manage Shipping options
+
+* (2014-02-26)
+
+ * add notify target Settlement on Errant Raid of District
+ * add refresh Watched Stores and Storage Capacity display on Release or Fire
+ * add refresh Ministers on Release or Fire
+ * add refresh Watched Stores on Market transactions
+
 0.2.1.7
 
 * (2014-02-26)
