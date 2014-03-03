@@ -3,6 +3,54 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.9
+
+* (2014-03-03)
+
+ * fix bug w Upkeep downgrade messaging
+ * fix bug w Bless Building Bonus targeting
+ * fix bug w Upkeep Forecast Bonus display
+ * fix bug w Bless Building Bonus effect
+ * fix bug w Bless Building Bonus creation
+ * fix bug w Regeneration cycle
+
+* (2014-03-02)
+
+ * fix bug causing Building repetition in Building Upkeep Forecast
+ * add prevent processing Speed Bonus from increasing Costs w/o increasing Output
+ * add Building Bonus data to Income Forecast
+ * fix bugs with Building Bonus percent display in Catalog
+ * correct Auction House and Conservatory Bonus calc
+ * add Waystation: Defender Toughness Bonus
+ * add Waystation: Ap Regeneration Bonus
+ * add Wine Cellar: Peer Population Rate Bonus
+ * add Gun Tower: Reduce Attacker Toughness Bonus
+ * add Sanctuary: Protected Stores Bonus
+ * add Machicolation: Max Defense Bonus
+ * add Trench: Reduce Attacker Celerity Bonus
+ * add Cartographer Tent: Defender Might Bonus
+ * add Watchtower: Defender Guile Bonus
+ * add Burial Chamber: Death Income Bonus
+
+* (2014-03-01)
+
+ * add Barbican: Reduce Attacker Celerity Bonus
+ * add Barbican: Reduce Attacker Might Bonus
+ * add Armory: Equipment Upkeep Bonus
+ * fix bug w capacityOverflow causing item drift
+ * update Equipment descriptions
+ * fix bug w Role Bonus display
+ * fix bug w Recruit cycle
+ * fix bug w Collect Income targeting
+ * fix bugs w Collect Income Bonus
+ * add Sovereign attribute bonuses to Settlement Effects display
+ * add Minister attribute bonuses to District Effects display
+ * add Rating and Rank to Equipment title on Manage->Gear
+
+* (2014-02-28)
+
+ * fix bug preventing Fishing Output district overview load
+
 0.2.1.8
 
 * (2014-02-28)
