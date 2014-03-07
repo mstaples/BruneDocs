@@ -3,6 +3,54 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.10
+
+* (2014-03-07)
+
+ * add Buildings by District for Sovereign Upkeep Forecast
+
+* (2014-03-06)
+
+ * add maintain zero production / employment on Upgrade / Downgrade when set
+ * fix bug w Recruit Building remaining cycle display calc
+ * fix bug w Recruit cycles
+ * add Empty Plot ownership to district Can Construct check
+ * add ability to sell multiple Empty Plots in the same district
+
+* (2014-03-05)
+
+ * add affordability check to Buy Building targeting
+ * fix bugs w Sell Building action
+ * fix bug w Distribute Wealth from Manage->Storage
+ * fix bug w Max District calc
+ * add option for specific Direct Trade from Character Sheets
+ * add specific targeting for Direct Trade action
+ * add max possible sales information to Bulk Sale form
+ * add caption to World and Bulk Sale forms
+ * add Direct Trade option to Market->Sell popup
+ * fix bug w Bulk Sale form
+ * fix bugs w refresh Forum path
+ * add Direct Trade action
+
+* (2014-03-04)
+
+ * add 5 levels to Hero effective starting attributes
+ * add upper limit of 3 to rank of triggered Scenarios
+ * correct Walking Shoes and various Arrows image names
+ * fix bug w showing Usable Equipment
+ * add Fast and Pray action
+ * add Superstitious Ritual action
+ * add Dominate Brigands action
+ * fix bugs w Item Equipping / Un-Equipping
+
+* (2014-03-03)
+
+ * add Settle Enmity action
+ * add Annul Friendship action
+ * add formatting to Naval Recon messaging
+ * fix bug w Naval Recon
+ * fix bug w Efficient Harvest
+
 0.2.1.9
 
 * (2014-03-03)
