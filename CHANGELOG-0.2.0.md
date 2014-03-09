@@ -3,11 +3,59 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.11
+
+* (2014-03-09)
+
+ * add Settlement About form to Government page for Sovereigns
+ * add Settlement Broadcast form to Government page for Sovereigns
+
+* (2014-03-08)
+
+ * fix bug w Available Plot calc for District Buildings
+ * fix bugs w Accept Fealty importance passing
+ * add Consolidated All types of Tax Income messaging
+ * add Consolidated Income messaging
+ * add Consolidated Processing messaging
+ * fix formatting on Donation messaging
+ * add Double Confirmation interaction to Pledge Fealty action
+ * fix bugs w Random Spell output from action results
+ * fix bugs w action Attribute Bonus stacking
+ * fix bugs w Attribute display Bonus Details
+ * add Change Building Output to Under Construction
+ * add Change Employment to Buidings Under Construction
+ * fix bugs accessing Personal Army equipping
+ * add Double Confirmation interaction to Settle Enmity action
+ * fix bug w Max Districts calc
+ * fix bug w some Districts' Extant Buildings failing to load
+ * fix bug w Efficient Harvest targeting
+ * add Settlement Broadcast Message
+ * remove Owned Building highlighting for Sovereigns and Ministers (Private only)
+
+* (2014-03-07)
+
+ * fix bugs w Construct Fields after Fall to Ruin
+ * fix bug w Leaderboards calc Settlements at rank 0
+ * add Green Bonus and Red Penalty highlighting to Attributes display
+ * add Government, Society, Economic settings to Government page
+ * add Settlement About Messages to Settlement Reports
+ * add Direct Trade becomes Secret action if Embargo exists between parties
+ * add rollover amount to Processing building Input calc
+ * add skip Dead characters for Happiness bonus calc
+ * fix bugs w Upkeep Totals for large settlements
+ * fix bugs w Minister Garrison Upkeep Forecasts
+ * fix bugs w Equipment Upkeep Forecasts
+ * add rollover amount to Processing building Output calc
+ * add to Fight in Pit action opponents
+ * add 80th Level passive Happiness bonuses
+ * add visual highlight to Owned Buildings
+ * add Buildings by District for Sovereign Upkeep Forecast
+
 0.2.1.10
 
 * (2014-03-07)
 
- * add Buildings by District for Sovereign Upkeep Forecast
+ * add Private Empty Plot sales
 
 * (2014-03-06)
 
