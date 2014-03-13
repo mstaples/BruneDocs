@@ -3,6 +3,77 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.12
+
+* (2014-03-12)
+
+ * fix bug w Courthouse Upgrade
+ * fix bug w missing Upkeep report
+ * fix bug w Settlement District view
+ * fix bug causing new Districts to vanish if accessed before Construct process complete
+ * add Shared Storage controls to Manage->Storage
+ * add Shared Storage settings and progressbar to Character Header
+ * add Shared Storage settings to Sovereign's Manage->Government
+ * add Shared Storage Storage function
+ * add Action, Encounter, and World Scenario per Settlement limits
+ * add by Category loading to Building Blueprints to reduce lag
+ * fix bug w Town Square district Building Blueprints loading
+ * fix bug loading empty Owned Transportation Unit data
+ * add Max number of Happiness Effects scenario per settlement
+ * fix bug causing Multi-Action to complete Scenario repeatedly
+ * add new Resource and Goods contrib, success, fail Cooperative Scenario outputs
+ * add new Experience and Importance awards for contrib, success, fail Cooperative Scenarios
+ * add new Resource and Goods costs to Cooperative Scenarios
+ * add new Attribute goals to Cooperative Scenarios
+ * add new Health, Magic, Action Point costs to Cooperative Scenarios
+ * add new Diplomatic Summit Scenario failure effect
+
+* (2014-03-11)
+
+ * add new Riot Scenario failure effect
+ * add new Parade Scenario success effect
+ * add new Jubilee Scenario success effect
+ * add new Ignorance Scenario failure effect
+ * add new Holiday Scenario success effect
+ * add new Festival Scenario success effect
+ * add new Famine Scenario failure effect
+ * add new Fair Scenario success effect
+ * add new Curse Scenario failure effect
+ * fix bug w Superstitious Ritual
+ * update Catalog Process Building output calc
+ * fix bug w Process Forecast bonus display
+ * fix bug w Recruit Forecast load
+ * adjust overflow to allow input/output overflow from same building
+ * add new Process, Crafting output PH rules
+
+* (2014-03-10)
+
+ * fix bug w Lightning Season Forecast bonus display
+ * fix bug w Work in Shop output including Resources
+ * fix bug w Donate to Lord
+ * fix bug w Processing messaging overwriting district buildings
+ * add Reserve Storage interface to Manage->Storage
+ * add Reserve Storage function
+ * adjust action importance calc
+ * add Equip Upkeep messaging format
+ * add Building Supply low/out messaging
+ * add Building Staffing change messaging
+ * remove ability to multi-cast karma on Character Bios
+ * add Totals to Income Report
+ * fix bug w Grapes Harvest Forecast load
+ * adjust Happiness Scenario trigger likelihood
+ * add Cede Acres interface to Manage->Government
+ * add Cede Acres function
+ * fix bug w Manage->Government load
+ * fix bug w Work in Shop action
+
+* (2014-03-09)
+
+ * fix bug w tax overwriting some action rewards
+ * fix bug creating orphaned Relationship Proposals
+ * fix bug w adjust output on District Construction projects
+ * fix bug w Hunt Bandits fight
+
 0.2.1.11
 
 * (2014-03-09)
