@@ -3,6 +3,64 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.1.13
+
+* (2014-03-16)
+
+ * add Changelog link to version number
+ * remove action message clean-up
+ * fix color contrast in Reports
+ * add age check for Forum excerpt messages
+ * add expanded topic checks for Forum excerpts
+ * fix Forum excerpt message length and pause
+ * fix bug w Donate Item form load in Firefox
+ * fix bug w Manage Item load in Firefox
+ * fix bugs w District view
+ * fix display bugs with Building Catalog
+ * fix bugs w Settlement load
+ * fix bugs w Catalog overflow
+ * add form routing to Hire/Fire forms
+ * add refresh forms to Hire and Fire Troops
+ * fix routing for Goods Catalog options
+ * fix bug w multiple source Resources in Production Forecast
+
+* (2014-03-15)
+
+ * fix bug w District Blueprints
+ * fix bug w Net Production display
+ * add Daily Production Report: Goods
+ * add Daily Production Report: Resources
+ * fix bug w Creativity and Leadership Role bonuses
+ * fix bug w Manage->Government load
+ * add Rated Equipment to Hero Catalog
+ * add Rated Equipment to Lord Catalog
+ * add Unit Access to Equipment Catalog
+ * add Class Access to Equipment Catalog
+ * add District Recruit Forecast bonus data
+ * add Settlement Recruit Forecast bonus data
+ * add District Craft Forecast bonus data
+ * add Settlement Craft Forecast bonus data
+
+* (2014-03-14)
+
+ * add Confirmation dialog to Speed Construction option
+ * add Property Ownership Overview to Commercial Report
+ * fix bug w Move button
+ * add Goods Production / Usage Forecast
+ * add Resource Production / Usage Forecast
+
+* (2014-03-13)
+
+ * add Minister / Private owner Report access
+ * add Errant Raid action conditional action rewards
+ * add NPC combat Interception to Errant Raid
+ * add Patrol Interception to Errant Raid
+ * add unique timer to Patrol actions
+ * fix bug w Work in Abattoir action output stacking
+ * fix bug w set Shared Storage to 0
+ * fix bug w set Shared Storage to 0
+ * fix bug w Direct Trade toll
+
 0.2.1.12
 
 * (2014-03-12)
