@@ -3,6 +3,20 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.2.0
+
+* (2014-03-16)
+
+ * add Industrial Warehouse Settlement Storage bonus
+ * add Rest Stop Toughness bonus
+ * add Sculpture Gallery stone building costs bonus
+ * add Trading Tent building bonus
+ * add Trading Port building bonus
+ * add Transport Ownership Overview to Commercial Report
+ * fix bug w Max Troops in Hire form
+ * add high contrast to Reports across Themes
+ * remove broken Bitcoin button
+
 0.2.1.13
 
 * (2014-03-16)
