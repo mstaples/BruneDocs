@@ -3,6 +3,38 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.2.1
+
+* (2014-03-19)
+
+ * fix bug w Boat completion
+ * add Settlement Regions setting
+ * fix vanishing Buildings on construction
+ * consolidate Construction messaging
+ * fix Recruit messaging
+ * fix bug preventing Plaza load
+ * add Improved Complete Event messaging
+ * fix stalling Recruit timers
+ * fix stalling Craft timers
+ * fix stalling Process timers
+ * fix stalling Harvest timers
+ * add District Broadcast message
+
+* (2014-03-18)
+
+ * fix bug w Commerce Report access while timers expired
+ * add multiple options to Best Actions
+ * fix gendered image on Select Character
+ * fix bug w construct needs on Building Blueprints
+
+* (2014-03-17)
+
+ * add Recruit Cost to Hire/Fire form
+ * add unit amount to cannot equip troops
+ * ts Importance inheritance
+ * fix bug w District access while timers expired
+ * fix bug w Troop Equipment access
+
 0.2.2.0
 
 * (2014-03-16)
