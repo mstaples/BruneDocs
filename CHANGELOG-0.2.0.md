@@ -3,6 +3,57 @@ CHANGELOG for 0.2.0
 
 0.2.0 marks the beginning of tracking versions and changelogs for this project.
 
+0.2.2.2
+
+* (2014-03-22)
+
+ * add Population Kill Leader Board
+ * add Population Kills tracking
+ * add needed Cycles to Costs by Order in Craft and Recruit Building Management
+ * add Craft Order option to Crafting Building Management
+ * add Training Orders Costs by Order
+ * add Training Orders Scope options
+ * add Training Orders option to Recruit Building Management
+ * add 'Trusted' Minister exile Resident
+ * add 'Trusted' Minister access to Settlement Taxation
+ * fix bug w new Recruits
+ * add 'Restricted' Minister Shared Storage block
+ * add 'Restricted' Minister Direct Trade actions illegal
+ * add 'Restricted' Minister external sales block
+ * fix bug w Shared Storage Manage Item popup load
+
+* (2014-03-21)
+
+ * add Season of Aries 100% discount to War costs
+ * fix bug w Boat sink sending multiple notifications
+ * add 'Restricted' Minister downgrade / deconstruct block
+ * add 'Trusted' Minister access to Immigration policy
+ * add 'Add Duties' option to Sovereigns' Manage->Government Ministers
+ * fix bug w Facebook Login on Firefox
+ * add Karma / activity based Forum topic deterioration
+ * fix bug w percent bonus display for Aquaducts
+ * fix multi-inheritance Importance passing
+ * add current Staffing percentage to Industrial Building Report
+
+* (2014-03-20)
+
+ * add confirmation to Settlement Region selection
+ * fix bug w Armory Catalog loading
+ * fix bug w Reports tabs in Firefox
+ * fix bug w Market tabs in Firefox
+ * add bonuses for Town Hall, Palisade
+ * add bonuses and automated Description for Abatis, Attrium
+ * add automated Catalog Descriptions for Heliograph Tower, Industrial Warehouse bonuses
+ * add automated Catalog Descriptions for Trench, Gun Tower, Moat bonuses
+ * add automated Catalog Descriptions for Sculpture Gallery, Rest Stop bonuses
+ * add automated Catalog Descriptions for Cartographer Tent, Barbican, Armory bonuses
+ * add automated Catalog Descriptions for Tollhouse, Trading Port, Trading Tent bonuses
+ * add default Defense Style to Patrol / Protect actions
+ * fix bug w Combat info reload on combat action
+ * add auto-open Combat on Errant Raid action
+ * fix bug w Hire Troops equipment
+ * fix bug w Boat completion
+
 0.2.2.1
 
 * (2014-03-19)
