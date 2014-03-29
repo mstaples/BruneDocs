@@ -1,13 +1,42 @@
 CHANGELOG for 0.2.2
 ===================
 
+0.2.2.4
+
+* (2014-03-28)
+
+ * add Relations auditing
+ * fix bug w Happiness totalling
+ * fix bug w Taxation tally report
+ * fix bug w Stockyards building management
+
+* (2014-03-27)
+
+ * fix bug w Housing Bonus readout
+ * add Building Bonus descriptions for Cart bonuses
+ * fix bug w Forecast
+ * fix bug w Resource building detection
+ * add Settlement Population details
+ * add District Population details
+
+* (2014-03-26)
+
+ * fix image names for Blessings
+ * add tighter targeting for Efficient Harvest action
+ * fix bug w Diplomatic Offer
+ * fix bug w Military Report load
+ * add Carts Building bonuses
+ * add Carts transport unit
+ * fix bug in Leader Boards
+ * fix bug in Resign Ministry
+
 0.2.2.3
 
-* (2014-03-25)
+* (2014-03-26)
 
  * add Active Patrols data to Military Reports
 
-* (2014-03-24)
+* (2014-03-25)
 
  * fix bug w toggle Character Header
  * add Minister Military Reports
@@ -18,7 +47,7 @@ CHANGELOG for 0.2.2
  * fix bug w Praise / Denounce relations targeting
  * fix bug w Upkeep / Bless Building bonuses
 
-* (2014-03-23)
+* (2014-03-24)
 
  * add tally Tollhouse Income to Income Report
  * fix bug w repeating descriptions in Catalog Spells
