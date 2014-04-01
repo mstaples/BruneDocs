@@ -1,6 +1,55 @@
 CHANGELOG for 0.2.2
 ===================
 
+0.2.2.5
+
+* (2014-04-01)
+
+ * add Minimum Remainder option to Share Storage Automated Transfers
+ * add event and message handling for Shared Storage Automated Transfers
+ * add Shared Storage Automated Transfers to Commerce Department
+
+* (2014-03-31)
+
+ * fix bug w Military Report
+ * add option to use old version of Population Detail
+ * fix bug w Free Population calc
+ * fix bug w extant Non Aggression Pact
+ * fix bug w Organize Storage II action
+ * fix bug w Basic Patrol action
+
+* (2014-03-30)
+
+ * fix bug w Declare Love action
+ * add by-target prices to Diplomacy action targeting
+ * add Settlement Population Detail to Interior Department
+ * add Garrison / Army employment to population reports
+ * add option to use old version of Manage->Government page
+ * fix Unit Special Ops Catalog effects descriptions
+ * add Recruit Buildings to Defense Buildings Overview
+ * add Recruit Infantry to Guardpost building
+ * fix bug w Death message
+
+* (2014-03-29)
+
+ * add Defense Buildings Overview to Defense Department
+ * add Active Patrols to Defense Department
+ * fix bug w Give Gift targetting
+ * add Manage->Governments Religion Department
+ * add Manage->Governments Commerce Department
+ * add Manage->Governments Interior Department
+ * add Manage->Governments Education Department
+ * add Manage->Governments Defense Department
+
+* (2014-03-28)
+
+ * add Manage->Governments Residents Tab
+ * add Manage->Governments Ministers Tab
+ * add Manage->Governments Overview Tab
+ * fix bug w Happiness totalling
+ * add Minister data to District Overview
+ * add consolidated output for Building Forecast
+
 0.2.2.4
 
 * (2014-03-28)
