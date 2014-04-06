@@ -1,6 +1,50 @@
 CHANGELOG for 0.2.2
 ===================
 
+0.2.2.6
+
+* (2014-04-05)
+
+ * add Hire Transport Market
+
+* (2014-04-04)
+
+ * fix refresh on purchase in new Markets
+ * add Hire Troop Market
+ * fix bug w Immigration release staff function
+ * fix bug w Immigration bonuses
+ * update District Construct button title based on ability to construct
+ * add Max / Used Plot data to District Overview
+ * fix bug w District icon Titles
+ * fix bug w Process cycle
+
+* (2014-04-03)
+
+ * fix bug w Taxation Report
+ * add Buy Building action to Real Estate Market
+ * add Sell Real Estate action to Real Estate Market
+ * add Real Estate Market
+ * fix bug w Boat training
+
+* (2014-04-02)
+
+ * fix bug w Boat training
+ * fix Latifundia display bonus stacking
+ * fix bugs w Upkeep
+ * fix bugs w District Production bonus calc
+ * fix bug w Hire new Troops
+ * add Taxes button/dialog to Interior Department
+ * add Taxes button/dialog to Commerce Department
+ * fix bug w Auto-Staffed Buildings
+ * fix bug w Answer Negotiate routing
+ * add Personal Scenarios to Settlement Scenario panel
+
+* (2014-04-01)
+
+ * fix bug in calc Max Fealty
+ * update Expired to Completing on Timed Events
+ * add allow scrolling of District Building panel
+
 0.2.2.5
 
 * (2014-04-01)
