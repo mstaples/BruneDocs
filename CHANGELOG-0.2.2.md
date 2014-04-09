@@ -1,6 +1,76 @@
 CHANGELOG for 0.2.2
 ===================
 
+0.2.2.7
+
+* (2014-04-08)
+
+ * add Studio effect: Income from Peers
+ * add Statue effect: Increase Citizen Influence
+ * add Fountain effect: Income from Peasants
+ * add Guardhouse effect: Increase Max Garrison
+ * add Chapel effect: Increase Citizen Fervor
+ * add Barbershop effect: Income from Peasants
+ * add Great Library and Publishing House effects: Education Bonus for Settlement
+ * add Colonnade effect: Increase Citizen Oratory
+ * add Flavian Palace effect: Exemplar Housing
+ * add Triumphal Arch effect: Respect Bonus for Settlement
+ * add Hospital effect: Process Tinctures
+ * add Piazza del Campidoglio effect: Increase Citizen Leadership
+ * add Courthouse effect: Security Bonus for Settlement
+ * add Parthenon effect: Craft as Spellcrafter
+ * add University effect: Increase Citizen Reason
+ * add Library effect: Increase Citizen Philosophy
+ * add Pub effect: Exemplar Housing
+ * add Abbatoir effect: Process Leather
+ * add Guardpost effect: Recruit Infantry Units
+ * add Bazaar effect: Income from Peasant Population
+ * add Armory effect: Increase Citizen Toughness
+ * add Baths effect: Peer Population Growth
+ * add Abatis effect: Celerity Reduction to Attacking Siege
+ * add Factory effect: Process as Weaver
+ * update Grainery Building to be Granary Building
+ * add District wide static Building Happiness Penalties
+ * add Settlement wide static Building Happiness Penalties
+ * add District wide static Building Happiness Bonuses
+ * add Settlement wide static Building Happiness Bonuses
+
+* (2014-04-07)
+
+ * fix bug w Qualifying Ministries check
+ * fix bug w Accept Ministry Invite
+ * fix bug w cost bonus in Building Construction
+ * fix bug w District load
+ * fix bug w Upkeep Bonus tally
+ * update layout for Education and Religion Departments
+ * add Slider controls to Alter Taxation
+ * add Theme specific color sets to Manage->Government Departments
+
+* (2014-04-06)
+
+ * add Uncharted warning modal to new Markets
+ * correct Population detail access from Report
+ * tie audit Population to do Immigration processes
+ * return Leave settlement action
+ * fix bug w Garrison Employment display
+ * fix bug w Upkeep Tally
+ * fix bug w Minister Donate / View Storage button
+ * add Material specific Building Upkeep Bonuses
+ * add shortage detail to Scenario cannot contribute message
+ * fix bug w BuildMode ownership
+
+* (2014-04-05)
+
+ * fix bug w Management scenario contributions
+ * fix bug with Personal Army Employment display
+ * add District name to Carts Arrive report
+ * adjust Happiness Effects chance
+ * fix bug w Settlement Region modal
+ * fix bug w Settlement Population load
+ * fix bug w Building Upkeep Tally records
+ * fix bug w Recruit Boats
+ * add Real Estate Offers to Commercial Report
+
 0.2.2.6
 
 * (2014-04-05)
