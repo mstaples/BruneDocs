@@ -1,6 +1,42 @@
 CHANGELOG for 0.2.2
 ===================
 
+0.2.2.8
+
+* (2014-04-11)
+
+ * add Item image to Building Output button
+ * add new District Icon
+ * fix Scope display for Craft forecast
+ * fix bug w Move from Wilderness
+
+* (2014-04-10)
+
+ * fix bug w Move from Wilderness
+ * fix Boats Dock reports format
+ * fix bug w Craft cycle
+ * fix bug w automatic Carts trading
+ * fix bug w Shortage Amounts in Process
+ * add coloration to Harvest / Process reports
+ * fix bug w Settlement Population load
+ * fix bug w Relations load removing Declare Friendship records
+ * fix Game Market refresh on purchase
+ * add Owner of Record information to Building panel
+ * add new formatting to Harvest / Process Reports
+ * add Ministry Harvest / Process Reports on zero net
+ * add Taxes to Harvest / Process Reports
+ * fix bug w Header toggle
+ * fix bug w Peer Immigration
+ * add Overview / Visit buttons to District Icons
+
+* (2014-04-09)
+
+ * fix bugs w Process cycle
+
+* (2014-04-08)
+
+ * fix bug w Happiness Bonus display stacking
+
 0.2.2.7
 
 * (2014-04-08)
