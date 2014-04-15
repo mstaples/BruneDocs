@@ -1,6 +1,76 @@
 CHANGELOG for 0.2.2
 ===================
 
+0.2.2.9
+
+* (2014-04-15)
+
+ * add handling for dark themes to Traits/Favorites selections
+ * add Change warning message to Traits/Favorites summary
+ * add update Trait/Favorite selection from character summary and Naming page
+ * add update Trait/Favorite selection from Character Report
+ * add to Character Reports: Zodiac, Traits, Favorites
+ * fix bug w testing output displaying in ui
+ * add Shared Settlement Storage empty message
+ * fix bug w Shared Settlement Storage item stacking
+ * fix bug w Automated Trades eligibility
+
+* (2014-04-14)
+
+ * update Lord Creation: character summary and Naming page
+ * add Lord Creation: Second Favorite Color
+ * add Lord Creation: Favorite Color
+ * add Lord Creation: Favorite Day
+ * add Lord Creation: Favorite Phase
+ * add Lord Creation: Favorite Season
+ * add Lord Creation: Zodiac Sign
+ * update Lord Creation: Class selection
+ * update Diplomacy Upkeep to 10% of initiation cost
+ * fix bug w Linked Building Bonus display
+ * fix equipment image names
+
+* (2014-04-13)
+
+ * fix bug w new construction Happiness effects
+ * fix bug w max / current developed plots reporting
+ * add class portrait to character summary and Naming page
+ * fix bug w Minister Effects in Catalog
+ * fix bug w Diplomacy Upkeep messaging
+ * fix bug w Industrial Report ownership reporting
+ * add Hero Creation: character summary and Naming page
+ * add Icons: Zodiac, Seasons, Phases
+ * add Hero Creation: Second Favorite Color
+ * add Hero Creation: Favorite Color
+ * add Hero Creation: Favorite Day
+ * add Hero Creation: Favorite Phase
+ * add Hero Creation: Favorite Season
+ * add Hero Creation: Zodiac Sign
+ * update Hero Creation: Class selection
+ * add Hero Creation: Type, Gender
+ * fix bug w Craft cycle when no item selected
+
+* (2014-04-12)
+
+ * fix response to Resign Sovereign action
+ * fix bug w Catalog tables overflowing container
+ * add Happiness Building sub-categories to Catalog
+ * fix bug w scrolling to bottom of Manage Building panel
+ * add automated Settlement descriptions
+ * fix bug w Personal Relations after loss of Sovereignty
+ * add new Happiness Building effects to Catalog
+ * add new Happiness effects to Buildings
+ * remove old static Happiness bonuses from Buildings
+ * fix bug w Craft cycle
+
+* (2014-04-11)
+
+ * fix bug w Process cycle when no item selected
+ * fix bug w donate to Minister form
+ * add Happiness detail to Internal Department
+ * fix bug w Construction overflow
+ * fix bug w double Default Building
+ * fix bug w actions vitals refresh
+
 0.2.2.8
 
 * (2014-04-11)
