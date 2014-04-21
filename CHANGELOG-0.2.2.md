@@ -1,6 +1,54 @@
 CHANGELOG for 0.2.2
 ===================
 
+0.2.2.10
+
+* (2014-04-20)
+
+ * fix bug w Negative Importance from Forum Karma
+ * fix bug w Accept fealty pledge declaration
+ * add formatting to Equipment Upkeep forum report
+ * fix bug w Equipment Upkeep
+ * fix bug w Military Report
+ * fix bug w pledge Fealty
+
+* (2014-04-19)
+
+ * fix bug w set Taxation
+
+* (2014-04-18)
+
+ * add formatting to Basic Recon forum report
+ * fix bugs w Basic Recon action
+ * fix bug w Edit Open Ministry
+ * fix bugs w completing Competitive Scenarios
+
+* (2014-04-17)
+
+ * fix bug w Character Report name
+ * fix bug w Timed Scenario rewards
+ * fix tooltip popovers on Manage Item Popup
+ * fix sizing on Manage Item popup
+ * fix bug w Transportation cycle
+ * fix bugs w Assault Scenario completion
+ * fix bug preventing Ministers from Downgrading buildings
+ * fix bugs w contribute to Assault scenario
+ * fix bugs w Casus Beli
+ * fix bug w Diplomacy Actions testing output
+
+* (2014-04-16)
+
+ * fix bug w Army Upkeep bonus
+ * fix bug w Monetary Upkeep for Personal Army Units
+ * fix New Settlement popup
+ * fix bug w Denounce targeting
+ * add Open Ministry Application / Acceptance process
+ * add New/Old button switch for Relationships layout
+ * add Diplomacy Upkeep to Report to Manage->Relationships
+ * add Diplomacy Upkeep to Upkeep Forecast Totals Report
+ * add Diplomacy Upkeep to Reports
+ * fix bug w Automated Transfers persistence
+
 0.2.2.9
 
 * (2014-04-15)
