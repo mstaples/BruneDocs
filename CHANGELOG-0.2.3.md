@@ -2,6 +2,34 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.2
+
+* (2014-04-27)
+
+ * add Taxation Reports - Action taxes income by character
+ * add Taxation Reports - Action taxes paid by character
+ * add Taxation Reports - Sales / Import tax bonus income
+ * add Taxation Reports - Sales / Import taxes income by character
+ * add Taxation Reports - Sales / Import taxes paid by character
+
+* (2014-04-26)
+
+ * add Taxation Reports by hour, day, week
+ * add Taxation Report - Harvest and Process tax bonus income
+ * add Taxation Report - Harvest and Process taxes income by character
+ * add Taxation Report - Harvest and Process taxes paid by character
+ * fix bug w Duel targeting level restriction
+ * fix bug w load Settlement report without a session character
+
+* (2014-04-25)
+
+ * fix bug w default item setting on Crafting buildings
+ * fix bug w duplicate actions in Action Menu
+ * fix bugs w Importance loss for Duel rejection
+ * fix bug w Duel info panel image paths
+ * fix bug w Duel forum/topic auditing
+ * fix bug w Accept Duel Declaration
+
 0.2.3.1
 
 * (2014-04-25)
