@@ -2,6 +2,57 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.3
+
+* (2014-05-03)
+
+ * fix bug w audit population call
+ * fix Internal Roads image map coordinates (overlap issue)
+ * add Character Bonuses to Capacity Detail
+ * add Active Effects bonus display formatting
+ * fix bug w Organize Storage bonus effect
+ * add prevent Duel/Enemy targeting for Donations
+ * correct PhpBB / Symfony cross requires
+ * fix bug w Settlement tabs on initial load in big Settlements
+ * fix bug w Recruit complete order messaging
+
+* (2014-05-02)
+
+ * fix bug w Building Output options on construction
+ * add Gender to Hero Report
+ * fix bug w Hero Report load
+ * remove Storage contents refresh after Donation
+
+* (2014-05-01)
+
+ * fix bug w employable Population
+ * add Upgrade/Downgrade/Construct to new Service
+ * remove Purchase Premium option
+ * fix bug w Downgrade construction
+
+* (2014-04-30)
+
+ * add Downgrade salvage messaging to character Announcements topic
+ * add Upgrade messaging to Settlement Construction topic
+ * add Downgrade messaging to Settlement Construction topic
+ * fix bug w missing Mineral Mine
+
+* (2014-04-29)
+
+ * add command to locate / restore truncated Construction
+ * fix bug truncating Construction events
+
+* (2014-04-28)
+
+ * award Platinum for Design contributions from Design Department
+ * add random tail to Settlement events length
+ * fix bug w Income cycle
+ * add Boats Dock, Ships Dock, Trains arrive to sett events processing
+ * fix bug w Recruit cycle
+ * fix Regeneration hang
+ * update storage decay event
+ * fix changelog link display
+
 0.2.3.2
 
 * (2014-04-27)
