@@ -2,6 +2,54 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.4
+
+* (2014-05-11)
+
+ * fix missing Features topic posts
+ * add Secret actions unlocking chance
+
+* (2014-05-10)
+
+ * fix bugs w catalog links w apostrophes
+ * fix bugs w image_paths w apostrophes
+ * add image for Common Sense Buff Spell
+ * replace Manuscript Common Sense w Tom Paine's Common Sense
+ * fix lingering negative Scenario effects
+ * fix bug w Weaver Happiness calc
+ * fix bug w Commercial Report load
+ * fix bug w Praetorian Assembly catalog description linking
+ * move Storage Decay chance to Immigration cycle
+ * alter Settlement Events to be extant building dependant
+
+* (2014-05-09)
+
+ * add Current Construction project to district blueprints overview
+
+* (2014-05-08)
+
+ * fix bugs w District construction space calc
+
+* (2014-05-07)
+
+ * add Reports to Manage for Ministers
+
+* (2014-05-06)
+
+ * fix bug w Secret chance actions
+
+* (2014-05-05)
+
+ * fix bug w Give-troops
+ * fix bugs w Hire Troops
+ * fix static Character Bonus display
+
+* (2014-05-04)
+
+ * fix bug w Political Council menu
+ * fix bug w Council actions government access
+ * fix bug w Settlement tabs
+
 0.2.3.3
 
 * (2014-05-03)
