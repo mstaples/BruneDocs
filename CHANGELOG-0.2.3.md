@@ -2,6 +2,49 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.5
+
+* (2014-05-16)
+
+ * fix bug w half accepted Ministry invitation
+ * add Property Rights dependent action prevention and messaging to Buy Building
+ * add Sovereigns and Trusted Minister option dispossess Foreign Private Property Holders
+ * add conditional Foreign Property Holders panel to Manage-Government
+ * add Sovereigns and Trusted Minister option dispossess Private Property owners
+ * add Sovereigns and Trusted Minister option to grant / revoke Citizenship
+ * add Citizens panel to Manage->Government
+ * add Private Property Disallowed option to Property Rights
+ * add Property Production Modifier to building storage capacity
+ * add Property Upkeep Modifier to building upkeep
+ * add Property Production Modifier to Harvest, Process, Craft, Recruit
+ * add not in residence building penalty to Property Production Modifier
+ * add Property Production and Upkeep Modifier calc
+
+* (2014-05-15)
+
+ * add Ministers and Sovereigns automatic Citizenship
+ * add Property Rights access to Sovereigns and Trusted Ministers
+ * add Property Ownership limitations to Property Rights
+ * add Property Ownership options to Property Rights
+ * fix bug set Weaponsmith output
+ * fix bug with Industrial District
+ * fix bug with invisible Districts
+ * fix bug with District construction completion
+
+* (2014-05-14)
+
+ * add Fight reward message to Combat topic report
+ * add building requirement to settlement event timers
+ * add Property Rights popup to Government->Interior
+
+* (2014-05-13)
+
+ * fix bug with server log overload
+
+* (2014-05-12)
+
+ * fix bug w Buy Building purchase price exchange
+
 0.2.3.4
 
 * (2014-05-11)
