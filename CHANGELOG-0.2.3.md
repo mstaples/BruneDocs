@@ -2,6 +2,39 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.6
+
+* (2014-05-19)
+
+ * fix bug w Competitive Scenario xp/imp calc
+ * fix bug w Competitive Scenario contrib output
+ * update New Content warning message for Competitive Scenarios
+ * add audit ScenOut data function
+ * add handling for Winners circle / percentage Scenario awards
+ * add handling for Hostile vs. Friendly/Neutral targeted Scenarios
+ * add Scenario completion detection
+
+* (2014-05-18)
+
+ * add Scenario conditional content and options by type
+ * add new Competitive Scenarios output calculations
+ * add new Competitive Scenarios design data
+ * fix Competitive Scenarios formatting and layout
+ * add to Competitive Scenarios - percentage to goal pie charts
+ * add to Competitive Scenarios - By Attribute Contributors / Detractors pie charts
+ * add to Competitive Scenarios - Contribute / Detract bar chart
+ * add Google Charts API access
+
+* (2014-05-17)
+
+ * fix bugs w naming New Settlement
+ * fix bugs w Delete Settlement
+ * fix bugs w Delete Character
+ * fix bugs w staff release on Deconstruct Building
+ * fix bugs w Server Startup scripts
+ * add Cart to Unit fixture
+ * fix equip_craft fixture
+
 0.2.3.5
 
 * (2014-05-16)
