@@ -2,6 +2,63 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.7
+
+* (2014-05-24)
+
+ * fix bugs w Sell Building as Minister
+ * add Available Plot display for Private Property Owners
+ * add show Private Property Districts
+
+* (2014-05-23)
+
+ * update Naturalist Center bonus effects
+ * fix bug w Purchase Plot
+ * fix bug w disappearing construct record
+ * fix bug w initiate construction
+ * add Real Estate Market handling for government vs. private
+ * add Retain Private Property for Ministers
+ * add Retain Private Property for Sovereign
+ * add image for De Beurs
+ * fix bug w Switching Forum Characters
+ * fix bug w Building image align
+ * fix bug in Construction
+ * update Settlement page element timing
+ * add Forum Session handling to prevent time-out during game session
+
+* (2014-05-22)
+
+ * add Sovereigns / Ministers to Buy Building
+ * add Deed record for Private Property purchases
+ * add Government vs Private property distinction
+ * add free staff from non-managed buildings on deconstruct
+ * add Troop Data to Manage->Equip
+ * fix bug w managed building staff on downgrade
+ * fix bugs w Catalog popup
+ * fix bugs w Scenario Effects
+
+* (2014-05-21)
+
+ * fix bugs w Secret Action origin Scenarios
+ * fix bugs w missing Scenario descriptions
+ * add Scenario automated effects desc to Catalog
+ * add Scenarios section to Catalog
+
+* (2014-05-20)
+
+ * fix bugs w Patrol Settlement Security Bonus
+ * fix bugs w Regeneration event
+ * add global default to Bulk orders
+ * add Transaction Details to Seller Messaging
+ * fix bug w construct Port District
+ * add Ships Dock formatted messaging
+ * fix bug w Attribute Bonus display
+ * fix bug w Read Old Testament Bonus
+
+* (2014-05-19)
+
+ * fix bug w Complete Scenario
+
 0.2.3.6
 
 * (2014-05-19)
