@@ -2,6 +2,31 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.8
+
+* (2014-05-26)
+
+ * add rank 0 actions to Catalog
+ * fix bug w Regeneration
+ * accelerate Income cycle processing
+ * fix bugs w Income cycle
+ * fix bugs w Process cycle
+
+* (2014-05-25)
+
+ * fix bug w Taxation display
+ * fix bug w Sell Building targeting
+ * fix bug w Action Cost overflow
+ * fix bug w Resign Ministry
+ * fix bugs w Non Aggression negotiation
+ * fix bugs w Direct Trade
+ * add Disallow as default Private Property setting
+
+* (2014-05-24)
+
+ * add Resident / Citizen specific taxation
+ * fix bugs w construct new building
+
 0.2.3.7
 
 * (2014-05-24)
