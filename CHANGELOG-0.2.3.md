@@ -2,6 +2,33 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.9
+
+* (2014-05-29)
+
+ * fix bugs w Combat Scenario contrib calc
+ * fix bugs w Army Attribute calc
+ * fix bugs w Scenario ending
+
+* (2014-05-28)
+
+ * fix bugs w Cooperative Scenario truncating
+
+* (2014-05-27)
+
+ * fix bugs w Sell Building
+ * fix bugs w external links to Report / Catalog pages
+ * add Invite Minister content / formatting
+ * fix bugs w Hunt Rabble, Hunt Bandits targeting
+ * fix bugs w trigger Skirmish actions
+ * add Death Alert to Hunt Rabble, Hunt Bandits actions
+ * add Death Alert to Fight in Pit action
+ * add Work Horse and Thoroughbred icons
+ * rename Pack Animal Harnessed Horse to Thoroughbred
+ * rename Pack Animal Trained Horse to Work Horse
+ * add Diplomatic actions to Catalog
+ * add Wild actions to Catalog
+
 0.2.3.8
 
 * (2014-05-26)
