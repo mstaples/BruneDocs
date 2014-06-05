@@ -2,6 +2,28 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.10
+
+* (2014-06-04)
+
+ * fix instances of Weilding to Wielding
+ * fix bugs w answer Handfasting proposal
+ * update Platinum Value Index
+
+* (2014-06-03)
+
+ * fix bugs w Diplomacy Targeting
+
+* (2014-06-01)
+
+ * fix bugs w Direct Trade
+
+* (2014-05-31)
+
+ * fix bugs w Abandoned Settlements
+ * fix bugs w Dominate Brigand
+ * update Equipment names
+
 0.2.3.9
 
 * (2014-05-29)
