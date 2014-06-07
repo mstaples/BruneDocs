@@ -2,10 +2,32 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.11
+
+* (2014-06-06)
+
+ * add found Settlement time requirement
+ * fix bug w Upgrade building
+ * fix bug w Minister detection in government display
+ * add Restore Settlement command
+ * fix bug w Audit Deeds
+ * fix bug w Diplomatic Action cost modifier calc
+
+* (2014-06-05)
+
+ * fix bug w competitive linked scenario goals
+ * fix bugs w Shared Storage currency tally
+ * fix bugs w Property Modifier on Storage calc
+ * fix bug w Diplomatic Action Targeting
+ * fix bug w Resign Sovereignty
+ * fix bugs w Embargo Targeting
+ * fix bugs w Property Ownership
+
 0.2.3.10
 
 * (2014-06-04)
 
+ * fix bugs w Forum auto-login
  * fix instances of Weilding to Wielding
  * fix bugs w answer Handfasting proposal
  * update Platinum Value Index
