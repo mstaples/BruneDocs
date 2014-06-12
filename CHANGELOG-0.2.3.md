@@ -2,6 +2,43 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.12
+
+* (2014-06-12)
+
+ * fix bug w new Happiness Calc
+
+* (2014-06-11)
+
+ * fix bug w Construction Event
+ * fix bug w Limit Output for Transportation Unit Training
+ * fix bug w Knarr
+ * fix bugs w Trading Ship rank selection
+ * fix bugs w server start command five
+ * fix bugs w server start command two
+
+* (2014-06-10)
+
+ * fix bugs w server start command one
+ * fix bugs w Happiness Calc / Transportation merge
+ * take limit off of timer event display
+ * fix bugs w Platinum Market transactions
+ * add Transportation Units to Catalog
+
+* (2014-06-09)
+
+ * fix bug w Inaccurate Astrologer
+ * add Transportation Unit Loot bonus effect
+ * add Transportation Unit Loss bonus effect
+ * add Transportation Unit Trade Management
+
+* (2014-06-07)
+
+ * add Transportation Unit Train by Rank
+ * add Transportation Unit Icons
+ * fix bug w Set Unit Recruit
+ * fix bug w Relations load
+
 0.2.3.11
 
 * (2014-06-06)
