@@ -2,6 +2,50 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.13
+
+* (2014-06-13)
+
+ * fix bug w Percentage Housing Bonus display
+ * fix bug w Hire Mercenaries
+ * fix bug w Competitive Hostile Target scenario contributions
+ * add proposal check to Propose Marriage and Propose Handfasting targeting
+ * fix bug w duplicate bond records
+ * fix bug w load Religion menu as Minister
+ * add accommodate multiple output types per building
+
+* (2014-06-13)
+
+ * fix bugs w Military Report load
+ * fix bug w Government->Prison load
+ * add Craftswoman class image
+ * add Nationalize action
+ * add Release Prisoner action
+ * add Alerts / Warnings to new content
+ * fix bug w awaiting message in combat
+ * fix bug w opponent portrait in combat info
+ * fix bug w opponent report link in combat info
+ * fix bug w Rank 1 Hero title handling
+ * fix bug w decimal handling in Catalog
+ * fix bugs w arrest Combat
+ * add Escape actions
+
+* (2014-06-12)
+
+ * add new action access for Prisoners
+ * fix messaging for new Transportation units
+ * fix bug w new shipping
+ * add icons for high rank Boats
+ * fix bug w Boats Dock
+ * fix bug w incomplete manage shipping transition
+ * fix bug w Carts Arrive
+ * add Combat result to Take Prisoner
+ * add Prison action handling
+ * fix bug w Blueprint access
+ * add conditional Prison actions to Prison tab
+ * add Prison tab to Government page
+ * fix bug w erroneous over level 80 bonus
+
 0.2.3.12
 
 * (2014-06-12)
