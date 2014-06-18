@@ -2,9 +2,52 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.14
+
+* (2014-06-17)
+
+ * fix bugs w conditional District Transport
+ * streamline District page load
+ * hide Navbar invert
+ * streamline Settlement page load
+ * add Local Leaders to Settlement view w Districts
+ * streamline Storage Decay
+ * streamline Header load
+ * fix bugs w Reject Marriage
+ * fix bugs w Reject Handfasting
+ * fix bugs w Import Action Fixtures
+ * fix bugs w Ministry Popups
+
+* (2014-06-16)
+
+ * add Confiscate Property Action
+ * add Dispossess Action
+ * add Repossess Action
+ * add Transfer Prisoner Action
+ * fix bugs w Hunt Character combat
+ * fix bugs w Hunt Character targeting
+ * update Action effects: approx 45 Actions
+ * update existing building records
+ * fix bugs w Road Infrastructure Cart training
+ * fix Catalog recruit data
+ * add Tertiary Processing: approx 31 Buildings
+ * add Tertiary Recruiting: Military HQ, Circus Maximus, Slums, Triumphal Arch, Palisade, Defensive Tower, Foreign Office
+ * add Tertiary Income: Casino, Department Store, Opera House, Grand Pavilion, Basillica, Palazo Vecchio, Central Fountain, Minstrel Stage
+ * add Tertiary Housing: Parthenon, Pantheon
+ * add Tertiary Crafting: Armory, Boardwalk, Cartographer Tent, Domus Aurea, Publishing House, Great Library
+
+* (2014-06-15)
+
+ * add messaging to Grant Citizenship
+ * add conditional Citizen title to header
+ * fix bugs w Accept Handfasting Proposal
+ * add Transportation storage to Catalog
+ * update effects: Oversee Construction I - III
+ * fix bugs w Boat storage on creation
+
 0.2.3.13
 
-* (2014-06-13)
+* (2014-06-14)
 
  * fix bug w Percentage Housing Bonus display
  * fix bug w Hire Mercenaries
