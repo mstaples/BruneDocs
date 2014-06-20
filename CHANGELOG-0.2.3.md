@@ -2,6 +2,31 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.15
+
+* (2014-06-19)
+
+ * fix bug w 0 supply Happiness calc
+ * fix bug w Great Hall source usage display
+ * add partial cycle handling to Crafting consumption
+ * fix bug w Port Authority Office option display
+ * fix bugs w multiple output handling
+ * fix bugs w Ritual of Plenty output option handling
+
+* (2014-06-18)
+
+ * restore from Donation doubling bug
+ * fix bug w incomplete Firing / Exile
+ * fix bug w Minister Citizenship
+ * fix bugs w Capacity display
+ * fix bugs w Capacity bonus by level calc
+ * fix bug w Settlement Button overlap
+ * add Population Icons to Government pages
+ * as Resident, Citizen, Visitor, Prisoner to Locals display
+ * change 'Population' to 'Locals'
+ * add Local Leaderboards to w District Settlement view
+ * add Population Icons
+
 0.2.3.14
 
 * (2014-06-17)
