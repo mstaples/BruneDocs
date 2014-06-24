@@ -2,6 +2,53 @@ CHANGELOG for 0.2.3
 
 ===================
 
+0.2.3.16
+
+* (2014-06-23)
+
+ * fix bug w style caching
+ * add high contrast font color to default alerts
+ * fix alert style conflicts
+
+* (2014-06-22)
+
+ * add missing Hero Character portraits
+ * add Character portraits and data to Player page
+ * add Type images and descriptions to Player page
+ * fix bugs w Actions popup updates
+ * update PVI values
+ * update Action menu categories / assignments
+ * add Actions: costs refresh on usage
+
+* (2014-06-21)
+
+ * add Actions: costs owned information
+ * add Actions: pop-out from Overview page
+ * add Actions: origin image and information to title
+ * add Actions: action image handling to descriptions
+ * add favorite actions to Actions Overview
+ * add favorite actions tracking
+ * add Actions: repeat targeted actions w/o refresh
+ * add Actions: purchase option on costs
+ * add Actions: close page components option
+ * add Actions: special alerts styles
+ * add Actions Overview page
+ * add title font
+
+* (2014-06-20)
+
+ * fix bug w Action messages
+ * fix bug w Donate
+ * fix bug w building management ownership on Role change
+ * fix bug w Deed vs Role based building ownership determination
+ * fix bug w Equipment stat effect speculation
+ * upgrade storage decay handling
+ * add Government->Ministers overview: same page option handling
+ * add Government->Ministers overview: Minister reports linking
+ * add Government->Ministers overview: Ministry images
+ * add consolidate Crafting order completion messaging
+ * fix bug w High Street access
+
 0.2.3.15
 
 * (2014-06-19)
