@@ -2,6 +2,47 @@ CHANGELOG for 0.2.4
 
 ===================
 
+0.2.4.3
+
+* (2014-07-03)
+
+ * add phpbb/sitemap.php
+ * add report pages to sitemap
+ * add catalog pages to sitemap
+ * add sitemap.default.xml
+
+* (2014-07-02)
+
+ * fix bug w Track Item record
+ * fix bug w Action triggered Tactics request
+ * fix bug w Fast and Pray
+ * add conditional sticky to Settlement info panel
+ * add Food Bonus information to Goods catalog pages
+ * add Food Bonus information to Resource catalog pages
+ * add images for Governments, Societies, Economies
+ * add Economies to catalog
+ * add Societies to catalog
+ * add Governments to catalog
+
+* (2014-07-01)
+
+ * add Cost information to Diplomatic Relationships catalog pages
+ * fix Granarys to Granaries
+ * fix bug w Manage Share Storage load
+ * fix Basillica to Basilica
+ * fix Vinyard to Vineyard
+ * fix bug w Unit access reporting in Equipment catalog pages
+ * add Settlement Messaging for Scenario effects
+ * add Personal Vehicle selection to Manage->Gear
+
+* (2014-06-30)
+
+ * fix bug w Local Population load
+ * fix bug w Donate from stored item
+ * add Manage->Next Meal set amount form
+ * add Manage->Next Meal Drag / Drop Food selection
+ * add Next Meal to Manage menu
+
 0.2.4.2
 
 * (2014-06-30)
