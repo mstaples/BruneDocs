@@ -2,6 +2,39 @@ CHANGELOG for 0.2.4
 
 ===================
 
+0.2.4.4
+
+* (2014-07-07)
+
+ * fix bugs w select Lord Gender route
+
+* (2014-07-06)
+
+ * fix bugs w Character creation Lord
+
+* (2014-07-05)
+
+ * add conditional sticky to District info panel
+ * add Login with either Username Or Email address
+ * add Character Report conditional targeted actions: Pledge Fealty
+ * add Character Report conditional targeted actions: Declare / Settle Enmity
+ * add Character Report conditional targeted actions: Declare Love
+ * add Character Report conditional targeted actions: Declare / Revoke Friendship
+
+* (2014-07-04)
+
+ * add forum profile data to Character Report
+ * add launch Character Report from forum select
+ * add Class Portraits for Count, Earl, Margrave
+ * add Class Portraits to forum posts author data display
+
+* (2014-07-03)
+
+ * add District Defense base / bonus / penalty detail
+ * add error tracking for character swap issue
+ * fix bug w Settlement info panel jumping
+ * fix Factory Bonus 0.01% to 0.04%
+
 0.2.4.3
 
 * (2014-07-03)
