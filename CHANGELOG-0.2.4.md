@@ -4,7 +4,7 @@ CHANGELOG for 0.2.4
 
 0.2.4.5
 
-* (2014-07-11)
+* (2014-07-13)
 
  * add Linked Bonus to Crafting Buildings
  * add Linked Bonus to Recruit Buildings
