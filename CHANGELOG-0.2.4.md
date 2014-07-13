@@ -2,6 +2,35 @@ CHANGELOG for 0.2.4
 
 ===================
 
+0.2.4.5
+
+* (2014-07-11)
+
+ * add Linked Bonus to Crafting Buildings
+ * add Linked Bonus to Recruit Buildings
+ * fix bugs w District Blueprint access sorting
+ * add Level Up display: sort attributes by amount
+ * add Level Up display: attribute icons
+ * add Level Up display: Ap, Hp, Mp, Xp, Importance icons
+ * add Level Up display: Character name, current Xp, current Importance
+ * fix bugs w Level Up display: Next Equipment Access
+ * fix bugs w Level Up display: Next Action Access
+ * add Work Hard and Patrol icons
+ * add Xp and Importance icons
+ * add Action Point, Health Point, Magic Point icons
+
+* (2014-07-12)
+
+ * fix bugs w Settlement Reports load
+ * fix bugs w select character load
+ * fix bugs w set Staff Preference
+ * fix bugs w Hero Sell Building
+
+* (2014-07-09)
+
+ * add Popup defaults
+ * fix District Blueprints overview message
+
 0.2.4.4
 
 * (2014-07-07)
