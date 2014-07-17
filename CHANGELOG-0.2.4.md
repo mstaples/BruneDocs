@@ -2,6 +2,46 @@ CHANGELOG for 0.2.4
 
 ===================
 
+0.2.4.6
+
+* (2014-07-17)
+
+ * add concentric select Religion layout
+ * add Religious Iconography
+
+* (2014-07-16)
+
+ * add edit Religion option to Manage Government Overview
+ * add Religion to Settlement Reports
+ * add Religions option to Settlement Creation
+ * fix bug w Upgrade hanging
+ * add Religious background images
+ * add edit Religion option to Character Report
+ * add Religion to Character Reports
+
+* (2014-07-15)
+
+ * add Religions option to Character Creation
+ * add five alternate landing pages
+ * fix bug w Timers / Forecasts load
+ * add new landing page banner
+ * add new landing layout
+
+* (2014-07-14)
+
+ * add time since posted to Local and Global Market Offers info
+ * fix bug w Construction truncation
+ * add Newest First and Oldest First filters to Markets
+ * add time remaining to Real Estate Offers info
+ * fix bug in Event Timing
+ * add Action image handling to Catalog
+ * add time since posted to Bulk Market Offer info
+
+* (2014-07-13)
+
+ * add Crest equipment type icon
+ * add streamlined forum author info
+
 0.2.4.5
 
 * (2014-07-13)
