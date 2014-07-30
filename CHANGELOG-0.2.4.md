@@ -2,6 +2,52 @@ CHANGELOG for 0.2.4
 
 ===================
 
+0.2.4.7
+
+* (2014-07-29)
+
+ * add Search option to Markets
+ * remove outdated Philosophies option from Preferences
+ * add audit District Bonuses
+ * add audit Settlement Bonuses
+ * fix Settlement Ownership bug
+ * fix bugs w Settlement Creation
+
+* (2014-07-27)
+
+ * fix bugs w Unit Market
+
+* (2014-07-25)
+
+ * add handling for new Traits to Settlement Settings form
+
+* (2014-07-24)
+
+ * add handling for fractional Harvest amounts
+
+* (2014-07-20)
+
+ * add handling for orphaned Construct events
+ * fix bugs w expired Construct events
+
+* (2014-07-19)
+
+ * fix bugs w Character Creation
+ * fix bugs w Edit Traits during Character Creation
+
+* (2014-07-18)
+
+ * fix bug w Contributor text edit access
+ * fix spelling errors in new content
+ * add Philosophies to Settlement Creation
+ * add Philosophies to Character Creation
+ * fix bug w Switch Characters
+ * fix oversight in Religions set
+
+* (2014-07-17)
+
+ * fix bug w Construction events
+
 0.2.4.6
 
 * (2014-07-17)
