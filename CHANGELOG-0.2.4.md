@@ -2,6 +2,22 @@ CHANGELOG for 0.2.4
 
 ===================
 
+0.2.5
+
+* (2014-07-31)
+
+ * Market Interface v0.2.5 complete
+ * add Market Offers: current exchange rate
+ * fix bug w Boats Dock
+ * fix bug w construction truncation
+
+* (2014-07-30)
+
+ * Garrisons, Units, and Gear v0.2.4 complete
+ * split Hire / Fire troop options
+ * add Garrison management option for switching between new/old
+ * add Garrison management Drag and Drop assignment
+
 0.2.4.7
 
 * (2014-07-29)
