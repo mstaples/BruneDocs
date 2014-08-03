@@ -2,6 +2,37 @@ CHANGELOG for 0.2.4
 
 ===================
 
+0.2.7
+
+* (2014-08-02)
+
+ * add Exile blacklist - prevent from re-entry
+ * fix bug in Locals display
+ * fix bug in Scenario Menu display
+ * add Trusted Minister access to Residency / Citizenship Applications
+ * add Citizenship Application / Approval Interaction
+ * add Residency Application / Approval Interaction
+ * add Apply For Citizenship option
+ * add Open Ministries: filter for Immigration qualifications
+ * add Open Residences: Apply for Residence option
+ * add Open Residences: filter for Immigration qualifications
+ * add Immigration Controls: Options - Apply to Citizenship Applicants
+ * add Immigration Controls: Application - None
+ * add Immigration Controls: Check All / Check None options to sets
+ * add Immigration Controls: Options - Apply to Residents Applicants, Apply to Minister Applicants
+ * add Immigration Controls: Application - Require Approval, Automatic on Qualification
+ * add Immigration Controls: Culture, Religions
+ * add Immigration Controls: Ranks, Minimum Level, Minimum Importance
+ * add Immigration Controls: Types, Genders, Classes
+ * add Update Upkeep Tally option to Upkeep forecasts
+
+0.2.6
+
+* (2014-08-01)
+
+ * Settlement Customization v0.2.6 complete
+ * fix District Display on Rank Up
+
 0.2.5
 
 * (2014-07-31)
