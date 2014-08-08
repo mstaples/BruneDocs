@@ -4,8 +4,10 @@ CHANGELOG for 0.2.8
 
 0.2.8
 
-* (2014-08-06)
+* (2014-08-08)
 
+ * add fix bug w record NPC death
+ * add fix bug w Fight in Pit combat round routing
  * add Building Upkeep Report shortage formatting
  * add Storage Decay - accelerate take
  * add missing Symbol icon
