@@ -2,7 +2,34 @@ CHANGELOG for 0.2.8
 
 ===================
 
-0.2.8
+0.2.8.2
+
+* (2014-08-12)
+
+ * add Penalty effects to District Happiness display
+
+* (2014-08-11)
+
+ * add Military Scenario discount for testing
+ * add Building Level multiplier on Defense Building Bonus display
+ * fix type-o on Defense Report
+
+* (2014-08-10)
+
+ * fix bugs w Property Ownership
+ * fix bugs w Bonus expiration
+ * fix bugs w Upkeep Forecast
+
+* (2014-08-09)
+
+ * fix Draught Horse icon
+
+* (2014-08-08)
+
+ * update version number
+ * accelerate Storage Decay process
+
+0.2.8.1
 
 * (2014-08-08)
 
