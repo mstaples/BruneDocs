@@ -2,6 +2,57 @@ CHANGELOG for 0.3.0
 
 ===================
 
+0.3.1
+
+* (2014-08-23)
+
+ * add Production error handling
+ * fix error on email confirmation reload
+ * add Depleted Market Offer Notifications
+ * add Real Estate Offer Notifications
+ * add Market Sale Notifications
+ * add to Income Report: bonus details per record
+ * add to Income Report: base amount, bonus amount
+
+* (2014-08-22)
+
+ * fix Diplomatic Actions targeting
+ * add messaging to Scenario Effect: Sovereign Death
+ * add messaging to Scenario Effect: Replace Sovereign
+ * add messaging to Scenario Effect: Clergy Importance Penalty
+ * add messaging to Scenario Effect: Mass Death Contributors Loot
+ * add messaging to Scenario Effect: Attackers Occupy District
+ * add messaging to Scenario Effect: Purge Leadership
+ * add messaging to Scenario Effect: Contributors Death
+ * add messaging to Scenario Effect: Destroy Stores
+ * add messaging to Scenario Effect: Mass Death
+ * add messaging to Scenario Effect: Leadership Importance/Xp Penalties
+ * add messaging to Scenario Effect: Relations Penalty
+ * add messaging to Scenario Effect: Contributors Death
+ * add messaging to Scenario Effect: All Treaties Dissolved
+ * add messaging to Scenario Effect: Speed Construction
+ * add messaging to Scenario Effect: Participants Death
+ * add messaging to Scenario Effect: Loot District Treasury
+ * fix trigger Scenario completion Effects
+ * fix detect Scenario complete detection
+
+* (2014-08-21)
+
+ * add Cart,Boat,Ship,Train Loss Notifications
+ * add Fleschette Bullet icon
+ * fix Completed Scenarios completion title
+ * add Contribution Charts to Completed Scenarios
+ * add Contributors to Completed Scenarios
+ * add Complete Scenarios to Scenario Menu
+ * fix icons for Fireball, Steel Ball Bullets, Hallow Point Bullets
+
+* (2014-08-20)
+
+ * add goal reduction to War Scenarios
+ * add Clear All notifications option
+ * fix duplicate construction completion error
+ * add messaging to Attackers Loot Settlement Treasury
+
 0.3.0
 
 * (2014-08-19)
