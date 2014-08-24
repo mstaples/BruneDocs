@@ -2,7 +2,7 @@ CHANGELOG for 0.3.0
 
 ===================
 
-0.3.01
+0.3.0.1
 
 * (2014-08-23)
 
@@ -53,7 +53,7 @@ CHANGELOG for 0.3.0
  * fix duplicate construction completion error
  * add messaging to Attackers Loot Settlement Treasury
 
-0.3.00
+0.3.0.0
 
 * (2014-08-19)
 
