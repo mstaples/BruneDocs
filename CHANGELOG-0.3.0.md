@@ -2,6 +2,33 @@ CHANGELOG for 0.3.0
 
 ===================
 
+0.3.0.2
+
+* (2014-08-26)
+
+ * add Income receipt: by building/district tally
+ * add Income receipt: base / bonus amounts
+
+* (2014-08-25)
+
+ * fix Income building bonus tally
+ * fix Income character bonus tally
+ * fix Navbar length / overlap bug
+ * fix bug w New Hero Move
+ * add Notification: Settle Enmity Offer
+ * add Notification: Handfasting Proposal
+ * add Notification: Declare Enemies
+ * add Notification: Marriage Proposal
+ * add Notification: Lovers Offer
+ * add Notification: Duel Challenge
+ * add Notification: Friendship Offer
+ * add Icons for Friendship, Lovers, Marriage, Handfasting, Duel
+
+* (2014-08-24)
+
+ * fix bug w check for active scenarios
+ * fix email errors
+
 0.3.0.1
 
 * (2014-08-23)
