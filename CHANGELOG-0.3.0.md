@@ -2,6 +2,34 @@ CHANGELOG for 0.3.0
 
 ===================
 
+0.3.0.3
+
+* (2014-08-29)
+
+ * add Under Staffed icons to District Buildings
+ * fix bug w Trading Management
+ * fix Falkusa image name
+ * update Factory Bonuses: to -3 Health
+ * update Factory Bonuses: 0.04 Crafting to 0.06 Processing
+
+* (2014-08-28)
+
+ * fix Day cycle: Audit Bonuses
+ * fix Day cycle: Taxation Report
+ * fix testing output
+ * add New Player routing to Hero creation
+ * add Heroes default route to Actions
+ * fix bug w Actions Overview access
+
+* (2014-08-27)
+
+ * fix route error on message
+ * add Under Construction icon to Settlement Districts
+ * fix bug w sell Shipping Units
+ * fix bug w 'Favorite Actions' with Council pre-requisites
+ * fix bug w empty Residency options
+ * fix bug w forum message on construction start
+
 0.3.0.2
 
 * (2014-08-26)
