@@ -2,6 +2,27 @@ CHANGELOG for 0.3.0
 
 ===================
 
+0.3.0.4
+
+* (2014-09-1)
+
+ * fix bug w Building Settings for Recruiting
+ * add Garrison Upkeep to Forecast Totals tally
+ * fix bug w Garrison Upkeep Forecast
+ * fix bug w Purim scenario early truncate
+ * fix bug w dissolve Embargo trigger
+ * add Aldon Baker original sounds and music to Credits
+
+* (2014-08-30)
+
+ * add Broadcast Email: select players by last active
+ * add Broadcast Email: opt out link back
+ * add Broadcast Email: Select Banner
+ * add Broadcast Email: featured link title, link, description
+ * add Broadcast Email: video title, link, description
+ * add Broadcast Email: basic form
+ * add Broadcast Email: to preferences
+
 0.3.0.3
 
 * (2014-08-29)
