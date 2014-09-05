@@ -2,6 +2,28 @@ CHANGELOG for 0.3.0
 
 ===================
 
+0.3.0.5
+
+* (2014-09-4)
+
+ * add Eat Meal: Non-Bonus Consumables Options
+ * add Eat Meal: exemption for under level 50 characters
+ * add Eat Meal: exemption for dead characters
+ * add Regeneration: Meal dependent Action Regen
+ * add Regeneration: Meal dependant Health Regen
+ * add Eat Meal: No Meal Health Penalty
+ * add Eat Meal: Check for Unplanned Meal
+ * add Eat Meal: Check for Plan Meal
+ * add Regeneration: by Settlement
+
+* (2014-09-2)
+
+ * add Plan Meal: attribute icons
+ * add Plan Meal: bonus forecast
+ * fix bug w Settlement load
+ * add Building Level to District data for Unity client
+ * fix credits page anonymous access
+
 0.3.0.4
 
 * (2014-09-1)
