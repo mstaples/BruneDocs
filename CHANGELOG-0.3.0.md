@@ -2,6 +2,38 @@ CHANGELOG for 0.3.0
 
 ===================
 
+0.3.0.6
+
+* (2014-09-9)
+
+ * fix bug w Manage Shipping illegal characters in form error
+ * fix bug w Manage Shipping load
+ * add Manage Shipping military units notice
+ * add refresh actions on Council initiation
+
+* (2014-09-8)
+
+ * fix bug w Regeneration cycle restart
+
+* (2014-09-7)
+
+ * fix empty food bonus error
+ * fix bug w food consumption
+ * add notification dropdown overflow handling
+ * fix bug w Settlement load
+
+* (2014-09-6)
+
+ * fix bug w food cycle
+ * fix bug w Recruit population cost display
+ * fix bug w Recruit population take check
+
+* (2014-09-5)
+
+ * fix bug w Income messaging
+ * fix bug w stacking Food bonuses
+ * fix bug w Storage Decay messaging
+
 0.3.0.5
 
 * (2014-09-4)
