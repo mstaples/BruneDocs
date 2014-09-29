@@ -6,6 +6,7 @@ CHANGELOG for 0.3.2
 
 * (2014-09-28)
 
+ * add update changelog links / version
  * fix bug w Protect Settlement messaging
  * fix bug w set Salary options
  * fix bug w Action menu auto reload
