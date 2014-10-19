@@ -2,6 +2,53 @@ CHANGELOG for 0.3.5
 
 ===================
 
+0.3.5.1
+
+* (2014-10-19)
+
+ * add UI process updates for update upkeep forecast
+ * add multi stage upkeep forecast
+ * add upkeep forecast command
+ * fix bugs w trigger Upkeep Forecast Update
+
+* (2014-10-18)
+
+ * fix bug w Army Upkeep Forecast Update
+ * fix bugs w Immigration event
+ * add privileges to the Contributor role
+ * fix char gear unity data
+
+* (2014-10-17)
+
+ * fix staff error
+ * fix Delete Char forum name passing
+ * fix attribute bug
+
+* (2014-10-16)
+
+ * add unity data route: attributes
+ * add unity data route: property
+ * add unity data route: building brief
+ * add unity data route: bonds
+ * add unity data route: pledges
+ * add unity data route: relation
+
+* (2014-10-15)
+
+ * fix phase Waning Quarter description
+ * add Phase Effect: Importance gain
+ * add Phase Effect: Xp gain
+ * add Phase Effect: Attributes
+ * add Phase Effect: Secret Actions Costs
+ * add Phase Effect: Action Material Output
+ * add Phase Effect: Magic Resistance
+ * add Phase Effect: Damage
+ * fix bugs w get Diplomacy costs Visitor
+ * add Season to UI
+ * add Moon Phase to UI
+ * fix unity gear info
+ * fix bugs w Scenario Menu
+
 0.3.5.0
 
 * (2014-10-14)
