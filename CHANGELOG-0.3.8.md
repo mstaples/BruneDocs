@@ -2,6 +2,38 @@ CHANGELOG for 0.3.8
 
 ===================
 
+0.3.8.1
+
+* (2014-11-17)
+
+ * add pre-crowdfunding badges
+ * add backer rewards command
+ * fix test output
+ * fix bug w Manage Gear access
+ * fix bug w Plan Meal access
+
+* (2014-11-16)
+
+ * fix bug w action bonus tallying
+ * fix bug w District menus
+ * fix bug w Settlement menus
+ * add Troop bonuses to Army popup
+ * fix bug w housing fixture
+ * add Army popup to Fight view
+
+* (2014-11-15)
+
+ * add Helper message to Death portrait
+ * add Negative importance warning to action descriptions
+ * add Helper message to actions
+ * add Helper message to move
+ * fix bug w Market js
+ * add Prisoner visual to buildings when relevant
+ * add Housing bonuses to Building Catalog
+ * add Housing bonuses for Pantheon
+ * add Housing bonuses for Parthenon
+ * add Housing bonuses for Granary
+
 0.3.8.0
 
 * (2014-11-14)
