@@ -2,6 +2,42 @@ CHANGELOG for 0.3.8
 
 ===================
 
+0.3.8.2
+
+* (2014-11-20)
+
+ * add select repeat on targeted output actions
+ * add calc for targeted output actions
+ * add over/under margin to targeted output actions
+
+* (2014-11-19)
+
+ * add handle targeted output for Equipment Type output actions
+ * add handle targeted output for Unit output action
+ * add handle targeted output for attribute calc output actions
+ * add handle targeted output for ranged output actions
+ * add image button interface to targeted output action form
+ * fix bug w building output batch progress bars
+ * add check for targeted output to action targeting
+
+* (2014-11-18)
+
+ * add manage forms to Manage Bank Account action
+ * fix bug w Manage Bank Account
+ * disable delete player / character admin buttons
+ * fix bug w scenario detract & contribute
+ * fix bug w competitive scenarios
+ * fix bug w js on test
+
+* (2014-11-17)
+
+ * fix bug w Forum path from action triggered scenario load
+ * fix bug w Military Council action menu load
+ * fix bug w Trains trading income
+ * add formatting to Trains Arrive report message
+ * fix bug w Trains Arrive
+ * fix bug w game offers market buttons
+
 0.3.8.1
 
 * (2014-11-17)
