@@ -2,6 +2,57 @@ CHANGELOG for 0.3.8
 
 ===================
 
+0.3.8.3
+
+* (2014-11-28)
+
+ * fix bug w Deconstruct Item targeting
+ * fix bug w Deconstruct Item repeat
+
+* (2014-11-26)
+
+ * fix bug w generate skill points from favorites records
+ * fix bug w action targeting form
+
+* (2014-11-25)
+
+ * add unity route: add empty expansion records to district buildings
+ * add skill rank bonus: importance from actions
+ * add skill rank bonus: xp from actions
+
+* (2014-11-24)
+
+ * add skill rank bonus: material output from actions
+ * add skill rank bonus: action point costs
+ * add notification on skill rank up
+ * add award Platinum on skill rank up
+ * add detect rank up from skill points
+ * add skill points from actions
+
+* (2014-11-23)
+
+ * add generate initial skill points from favorites
+ * add prison cells bonus to catalog pages
+ * add unity route: manage gear
+ * add relations change to Give Gift action
+ * add Deconstruct Item: update costs
+
+* (2014-11-22)
+
+ * add Deconstruct Item: multiple item selection
+ * fix bug w army combat attributes
+ * add Deconstruct Item: target by rank
+ * add Deconstruct Item: target by type
+ * add Equipment Type and Equipment Rank to character storage data
+ * add Errand Raid: raided settlement messaging
+ * add Errant Raid: targeted looting
+ * add Errant Raid: District/Settlement info to messaging
+
+* (2014-11-21)
+
+ * add updating costs to targeted output actions
+ * add progress bar to targeted output actions
+
 0.3.8.2
 
 * (2014-11-20)
