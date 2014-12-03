@@ -1,4 +1,4 @@
-CHANGELOG for 0.3.10
+CHANGELOG for 0.3.11
 
 ===================
 
