@@ -2,6 +2,46 @@ CHANGELOG for 0.3.11
 
 ===================
 
+0.3.11.1
+
+* (2014-12-08)
+
+ * add Security bonus from Garrisoned troops
+
+* (2014-12-07)
+
+ * fix tally of extant knacks
+ * fix bug w Fishing Output load
+
+* (2014-12-06)
+
+ * add note on market offers when accessed through diplomatic bond
+ * add Next Output button / popup to manage building
+ * fix bug w class image paths
+ * fix bug w Disband Garrison option
+ * fix icon names
+ * fix bug w Skill Bonus to Action Point costs
+ * add Intercept Attack: messaging
+ * add Intercept Attack: add default combat engagement after 15 minutes
+
+* (2014-12-05)
+
+ * add Intercept Attack: return to scenario on successful interception combat
+ * add Death Blow: return 10% Health to 'Released' character
+ * add Intercept Attack: interception title to Death Match
+ * add Intercept Attack: initiate Death Match when patrol present
+ * add Intercept Attack: skip dead patrols
+ * add Intercept Attack: check for existing Interception on Attack
+
+* (2014-12-03)
+
+ * add Intercept Attack: detect active patrols
+ * fix bug w available character space in settlement
+ * fix bug w header refresh
+ * fix bug w combat equipment drop
+ * fix Bargain Hunt equipment rank
+ * fix remove alerts from disband garrison
+
 0.3.11.0
 
 * (2014-12-02)
