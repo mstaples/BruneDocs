@@ -6,6 +6,7 @@ CHANGELOG for 0.4.1
 
 * (2014-12-18)
 
+ * fix changelog link
  * fix lag w performing multiple secret actions
 
 * (2014-12-17)
