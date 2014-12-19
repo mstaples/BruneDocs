@@ -1,4 +1,4 @@
-CHANGELOG for 0.4.1
+CHANGELOG for 0.4.0
 
 ===================
 
