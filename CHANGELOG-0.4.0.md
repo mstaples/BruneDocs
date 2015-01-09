@@ -2,7 +2,7 @@ CHANGELOG for 0.4.0
 
 ===================
 
-0.4.1.2
+0.4.0.3
 
 * (2014-1-08)
 
@@ -23,7 +23,7 @@ CHANGELOG for 0.4.0
  * fix bug w Military Council expiration
  * fix bug w Housing setting display amounts
 
-0.4.1.1
+0.4.0.2
 
 * (2014-1-02)
 
@@ -83,7 +83,7 @@ CHANGELOG for 0.4.0
  * fix requested ministry class based rejection message
  * fix equipment unlock from level 400 to 450 on level up display
 
-0.4.1.0
+0.4.0.1
 
 * (2014-12-18)
 
