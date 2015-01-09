@@ -2,6 +2,27 @@ CHANGELOG for 0.4.0
 
 ===================
 
+0.4.1.2
+
+* (2014-1-08)
+
+ * fix escape imprisonment housing
+ * fix imprison housing
+ * fix sovereign evict resident housing
+
+* (2014-1-04)
+
+ * fix stacking action bonus
+ * fix Organize Storage expiration
+ * fix bug w Day cycle
+
+* (2014-1-04)
+
+ * fix settlement happiness calc
+ * fix duplicate importance record
+ * fix bug w Military Council expiration
+ * fix bug w Housing setting display amounts
+
 0.4.1.1
 
 * (2014-1-02)
