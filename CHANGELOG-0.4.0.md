@@ -1,6 +1,22 @@
 CHANGELOG for 0.4.0
-
 ===================
+
+0.4.0.4
+
+* (2014-1-13)
+
+ * fix remove class names from player header
+ * fix limit Bargain Hunt returns to rank 1
+ * add eviction notice to housing settings
+ * fix remove Bronze Litra from Caveat Emptor output options
+ * add selected Titles display to player header
+ * add Badge and Title display to character header
+ * add Badge and Title display to forums
+ * add Badge and Title display to character report
+ * add create-badge command to distribute initial badges
+ * add Badge images
+ * add Badge selection to character report
+ * add Title selection to character report
 
 0.4.0.3
 
