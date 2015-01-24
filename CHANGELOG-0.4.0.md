@@ -1,6 +1,58 @@
 CHANGELOG for 0.4.0
 ===================
 
+0.4.0.5
+
+* (2014-1-17)
+
+ * fix bug w manage gear
+ * fix dynamic tab sizes on Settlement page
+ * fix bug w dialog jumping
+ * add spinner to settlement info panel loads
+ * fix bug w Warehouse storage
+ * add updateCapacity option 'untaxed'
+ * add new layout for Manage Gear
+ * add wide layout Settlement page proportions adjustment
+ * fix bug w building blueprint access
+ * fix District Expansion Cost wording
+ * fix issue with layout form order in Preferences
+ * fix bug w login form
+ * fix bugs w create-building-plot-order command
+ * add variable map key placement based on background
+ * add 14 District Maps
+
+* (2014-1-16)
+
+ * fix js bug to allow multiple dynamically resizing maps per page
+ * add initial building effects icons
+ * add plot targeted construction to district map
+ * add empty plot info to district map
+ * add current effects info to district map
+ * add under construction info to district map
+ * add 'wide' layout option
+ * add building targeted actions to district map
+ * add import-map_sett command
+ * add import-map_dist command
+ * add create-building-plot-order command
+ * add audit-act-access command
+
+* (2014-1-15)
+
+ * fix js issues on test
+
+* (2014-1-14)
+
+ * add 25 District Maps
+ * add initial District Map handling
+ * add Structure by level
+ * add Structure info to building display
+ * add changes to Horde Attack and Riot scenarios
+ * add Recipes to Plan Next Meal
+
+* (2014-1-13)
+
+ * add Building Damage / Decay
+
 0.4.0.4
 
 * (2014-1-13)
