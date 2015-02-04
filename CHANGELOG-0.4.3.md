@@ -1,6 +1,56 @@
 CHANGELOG for 0.4.3
 ===================
 
+0.4.3.2
+
+* (2014-2-03)
+
+ * fix bugs w Hire Candidate
+ * fix bugs w Ministerial settlement wide action importance bonus
+ * fix bug w construction materials estimate bonus display
+ * add include list for random resource and goods costs
+ * fix restore garrison units from errored upkeep cycle
+ * fix restore equipment from errored upkeep cycle
+ * fix bugs w sell building targeting
+
+* (2014-2-02)
+
+ * fix bugs w army upkeep
+ * fix bugs w garrison upkeep
+ * fix bugs w equipment upkeep
+ * fix bugs w building upkeep timeout
+ * fix restore errored income cycle
+ * fix bugs w npc fight damage calc
+ * fix bug w get army equipment effects
+
+* (2014-2-01)
+
+ * add Inner Sanctum death income bonus
+ * fix bugs w buildings w multiple income types
+ * fix bug w Income cost records
+ * add formatting for Income messaging
+ * fix bug w take stuff records on randomized costs
+ * add prevent PH from being taken for random costs
+ * fix bugs w multiple output bonuses
+ * fix bugs w Income exchange rate
+ * fix bug w settlement map load
+ * add income costs data
+ * fix bug w Income building management options
+ * add expand reports area on wide layout
+ * fix bug w Garrison unit tracking
+ * add new figures for combat attribute usage
+ * add change Inner Sanctum Faith to 6
+ * add change Cubicula to Inner Sanctum
+
+* (2014-1-26)
+
+ * fix bug w district overview plot usage display
+ * add Manage Transport Crew options
+ * fix fight display layout
+ * fix rollback errored Boats Dock
+ * fix bug w give Transportation Unit
+ * fix bugs w taking random resources or goods
+
 0.4.3.1
 
 * (2014-1-25)
