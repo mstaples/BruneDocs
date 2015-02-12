@@ -1,6 +1,48 @@
 CHANGELOG for 0.4.3
 ===================
 
+0.4.3.3
+
+* (2014-2-11)
+
+ * add xp penalty for non-sovereigns w/o homes
+ * fix bug w population calc
+ * fix only show population detail button when available
+ * add load population detail separately from local overview load (reduce lag)
+ * add double upkeep costs for off-housing usage buildings
+ * add new population housing exchange rate
+ * add xp bonus for district type matching character class
+ * add protect goods / resources from construction use
+ * add building bonus to attribute bonus display
+ * add direct linking from scenario notification to scenario
+
+* (2014-2-10)
+
+ * add show attribute change on drag equipped item
+ * fix float content style to accomodate vertical scroll
+ * fix inner scrolling issue on catalog popup
+ * add header refresh after location refresh on relocate
+ * change Production Speed to Processing Speed in catalog
+ * add background to Unity actions display
+ * add default set to offline: recruit, craft, income buildings
+ * fix bug w Income limits
+
+* (2014-2-09)
+
+ * fix bug w Take Prisoner
+ * fix bug w Upkeep event
+ * fix bug w notifying sovereign on hero owned building upgrade
+ * fix issues with attribute display across layouts
+ * fix building descriptions for income buildings w/o costs
+ * fix bug w level up
+ * fix bug w vitals display for Heroes
+ * fix bug w error message display on ministry invitation
+ * add paging to settlement selection
+
+* (2014-2-07)
+
+ * fix bug w storage calc
+
 0.4.3.2
 
 * (2014-2-03)
