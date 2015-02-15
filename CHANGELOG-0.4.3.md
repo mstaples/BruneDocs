@@ -1,6 +1,42 @@
 CHANGELOG for 0.4.3
 ===================
 
+0.4.3.4
+
+* (2014-2-14)
+
+ * add process Income by building
+ * fix bug w Plaza district map
+ * add Stockyards map
+ * fix bug w Recruit district name drift
+ * fix bug w District scrolling view
+ * fix bug w Settlement tabs moving offscreen right
+ * fix bugs truncating Income cycle
+ * add Manage Income to header navbar
+ * add link to Knack selection from Report page when available
+ * fix speed performance of Oversee Construction actions
+
+* (2014-2-13)
+
+ * add detect building setting and indication coloring for form
+ * add control income buildings by cost or income type
+ * add control income buildings by district or building type
+ * add max income achieved handling to Income forecast
+ * add display of Resident Storage for non-Sovereigns
+ * add Update Capacity handling for Resident Storage
+ * add Sovereign reserved storage to Resident Storage form
+ * add form for Sovereign to specify Resident Storage
+
+* (2014-2-12)
+
+ * add update Home building storage effects
+ * add City Vault storage effect
+ * add update capacity on construct, upgrade, downgrade Warehouse or Industrial Warehouse
+ * fix bug with shipping loss notifications
+ * add consolidated consumption reporting for meals
+ * add remaining meals to food indicator
+ * add remaining food indicator to header
+
 0.4.3.3
 
 * (2014-2-11)
