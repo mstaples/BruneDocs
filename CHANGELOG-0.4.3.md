@@ -1,6 +1,42 @@
 CHANGELOG for 0.4.3
 ===================
 
+0.4.3.5
+
+* (2014-2-19)
+
+ * add spinner to loading segments
+ * add improved speed in level up calc
+ * fix progress bar on targeted actions
+ * fix repeat on targeted actions
+ * add increase repetition and rank timers to actions progress bar
+ * add improved non-targeted action performance
+ * add improved settlement page loading
+
+* (2014-2-18)
+
+ * add improved actions overview loading
+ * add improved best xp and importance action calc
+
+* (2014-2-16)
+
+ * add right float messaging on wide layout for scenarios
+ * add consolidated messaging for repeated scenario contributions
+ * add curved background style to scenario opposition options
+ * add scenario image to opposition options display
+ * add form style for opposition scenario buttons
+ * fix animation on scenario detract
+ * add costs icons to scenario costs toggle
+ * add attribute icons to scenario buttons
+
+* (2014-2-15)
+
+ * add scaling price for secret action tomes
+ * fix losing layout preference on refresh
+ * add columns to action menus
+ * fix login form expiring
+ * add consolidated payroll reporting
+
 0.4.3.4
 
 * (2014-2-14)
