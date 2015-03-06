@@ -1,6 +1,112 @@
 CHANGELOG for 0.4.4
 ===================
 
+0.4.4.2
+
+* (2014-3-6)
+
+ * add death and fatigue handling to combat
+ * add notification on interception combat to both parties
+ * add contribute to scenario on successful interception combat
+ * add formation and position handling for interception combat
+ * fix combat report: attacker army names
+ * add combat report: color border indicating damage
+ * add combat report: damage by position by combat round
+
+* (2014-3-5)
+
+ * fix bugs w fight vs. character damage
+ * fix bugs w fight vs. character army positions
+ * add combat report: attacker / defender images
+ * add take prisoner on successful combat when appropriate
+ * add combat report: army positions facing
+ * add combat report: deserters
+ * add equipment effects to army current attrib calc
+ * add combat report: wide / centered layouts
+ * add combat report: deaths
+ * add combat report: attacker / defender tactics flags
+ * add combat report: unit image to position display
+ * add combat report: unit name, count to position title
+ * add combat report: consolidate identical damage messages
+ * add combat report: damage data by round
+ * add combat report: by round army position display
+ * add create report from combat records
+
+* (2014-3-4)
+
+ * add max rounds to combats by attacker rank
+ * fix bugs with combat rounds count
+ * add attribute to inflict damage bonus passing
+ * add can wield magic, ranged, artillery check types for armies
+ * add combat position records by round activity
+ * add formation and position handling to fight vs. character
+ * add fatigue and deserter handling to combat rounds
+ * add determine unit combat damage access by class, equipment, and position
+ * add create personal notice on combat creation
+ * add jump to combat report from combat creation
+ * add disband transportation unit option in Manage->Shipping
+
+* (2014-3-3)
+
+ * add combat unit count records by round
+ * add distribute combat round damage to army by position
+ * add combat deaths, damage, and deserters records by round
+ * add combat message records by round activity
+ * add by type damage / resistance calc to combat
+ * add character when present to current army attrib calc
+ * add equipment effects to current army attrib calc
+ * add tactical bonuses to current army attrib calc
+ * add calc current army attributes per combat round
+ * add remove forum interaction from fight vs. character
+ * add remove placeholder formations and tactics data from fight vs. character
+ * add update to award badges
+ * add combat damage distinctions for melee, ranged, artillery, and magic types
+
+* (2014-3-2)
+
+ * add calc per unit position and tactics effects based on combat tactics outcome
+ * add tactics and positions bonuses fixture / command / records
+
+* (2014-3-1)
+
+ * add combat position selection for character
+ * add update fight vs. NPC to use current army records
+ * add alter army positions based on tactics outcome
+ * add determine tactics outcome at initiate combat
+ * add NPC troop records for vs. NPC combats
+ * add remove forum interaction from combats
+ * add per combat round formation records
+ * add per combat tactics records
+ * add separate position storage per combat from orders
+ * add troop type handling to formation orders
+ * add displace previously placed unit in position selection
+
+* (2014-2-28)
+
+ * fix bugs with Recruit district placement
+ * fix bugs with do Recruit
+
+* (2014-2-27)
+
+ * add abandoned timer of two weeks to personal interactions
+ * add tactics info to selection
+ * add unit info to position image caption
+ * add selected tactic flag to manage gear pages
+ * add tactics selection option to Manage->Gear
+
+* (2014-2-26)
+
+ * fix Downgrade setting employment to zero
+ * add Minister management of transportation units in their district
+ * add unit images and titles to position selection
+ * add placed units to position selection view
+ * add row labels to troop position selection
+ * add position selection option to manage army unit
+ * add flag to forum author info
+ * fix bug w badge display on forum posts
+ * add flag component access update to character creation
+ * add catch to prevent premature upkeep repetitions
+
 0.4.4.1
 
 * (2014-2-25)
