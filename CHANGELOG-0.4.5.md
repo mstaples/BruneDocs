@@ -1,6 +1,76 @@
 CHANGELOG for 0.4.5
 ===================
 
+0.4.5.1
+
+* (2014-3-19)
+
+ * add update building bonuses for: Mustering Hall, Ranger Station
+ * add update building bonuses for: Istituto per le Opere di Religione, Praetorian Assembly
+ * add update building bonuses for: Gun Tower, Highway Patrol, Exotic Imports
+ * add update building bonuses for: Civil Administration, Abattoir, Moat
+ * add update building bonuses for: Machine Shop, Keep, Waystation
+ * add update building bonuses for: Embassy, Bazaar, University
+ * add update Postern Gate secret action cost bonus
+ * add update Race Track training bonus
+ * add update Merchant Bank build cost bonus
+
+* (2014-3-18)
+
+ * add update Sculpture Gallery stonecutter bonus
+ * add update Happiness for Church, University, Inner Sanctum
+ * add change Machicolation to Barracks
+ * fix bug w redundant js include
+ * fix bug w Available Minister rank / level display
+ * fix action menu visibility in Dark theme
+ * add updates to flag editor
+
+* (2014-3-17)
+
+ * add phpbb db templates for server startup
+ * fix bugs w server startup script
+ * add server startup script
+ * fix color access for all characters
+ * add db templates for server startup
+
+* (2014-3-16)
+
+ * fix new character flag color access
+ * add enlarge Flag Editor canvas
+ * add Invoker image
+ * fix Flag Editor in Firefox
+ * add updated Carnal House bonus
+ * add updated Town Hall bonus
+ * fix bug w Upgrade event expiration
+ * fix background images style in settlement creation
+ * fix background images style in character creation
+ * add Terms of Service to popup in character creation
+ * fix Terms of Service link in character creation
+
+* (2014-3-15)
+
+ * fix bug w downgrade building with staff
+ * fix bugs w Settlement Hero housing
+ * reorganize District page layout
+ * fix bugs w Combat
+ * fix bugs w Hire Troops
+ * add discount to Scenario goals for testing
+ * fix Work Hard bonus image
+ * add remove Character from Home when changing settlements
+ * add make Encounter Rank = triggering Action Rank
+ * add new Ranged Critical and Resist Ranged Critical attribute calcs to combat
+ * add title to combat report
+ * fix bug w Give Gift
+ * fix action award on Errant Raid complete
+ * add action Mercantile Raid
+
+* (2014-3-14)
+
+ * fix drag & drop unequipping
+ * add rank based squad limit
+ * fix error on duel check
+ * fix manage building lock
+
 0.4.5.0
 
 * (2014-3-13)
