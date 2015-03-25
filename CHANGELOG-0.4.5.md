@@ -1,6 +1,52 @@
 CHANGELOG for 0.4.5
 ===================
 
+0.4.5.2
+
+* (2014-3-24)
+
+ * fix bugs w troop market
+
+* (2014-3-23)
+
+ * add change Building Upkeep from by Settlement to by District
+ * add by District timed event handling
+ * fix bug w Harvest cycle
+ * fix bug w unity character report load
+ * add Sovereign access to Minister' District tax controls
+ * add by District tax controls for Ministers
+ * add turn on 'auto' vehicle training when space is available
+
+* (2014-3-22)
+
+ * add auto train option to vehicle training limits control panel
+ * fix government overview popup display
+ * add forum renaming on Settlement name change
+ * add diplomacy effects from Settlement name change
+ * add level / importance effects from Settlement name change
+ * add Settlement name change option
+
+* (2014-3-21)
+
+ * fix bugs w Dueling
+ * add army name to combat reports
+ * add army name to character report
+ * add option for naming personal army
+ * fix bugs w Fire army unit
+ * fix bug w select formation position for character
+ * add Go On Vacation action
+ * add Active / Inactive / Vacation character modes
+ * add Animal / Fledgling as input options for Butcher Shop
+ * add sell transportation units in mass
+ * add refresh building's Next Output display on select
+ * add Become Malleable action to enable character trait changes
+
+* (2014-3-20)
+
+ * fix bugs with Fire army unit
+ * add army unit advancement from combat outcomes
+ * add combat kill distribution to army units
+
 0.4.5.1
 
 * (2014-3-19)
