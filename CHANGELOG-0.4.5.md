@@ -1,7 +1,7 @@
 CHANGELOG for 0.4.5
 ===================
 
-0.4.5.2
+0.4.5.3
 
 * (2014-3-28)
 
@@ -34,6 +34,8 @@ CHANGELOG for 0.4.5
  * fix bugs w Crafting completion
  * fix bugs w Regeneration
  * add lowered scenario goals for testing
+
+0.4.5.2
 
 * (2014-3-24)
 
