@@ -3,6 +3,38 @@ CHANGELOG for 0.4.5
 
 0.4.5.2
 
+* (2014-3-28)
+
+ * fix image load for Gallileo equipment type
+ * fix bugs w Duel locking
+ * fix bugs w Limit Output settings for Crafting buildings
+
+* (2014-3-27)
+
+ * fix bugs w Star Fortification map render
+ * fix bugs w Palisade Line map render
+ * fix bugs w create lord
+ * add remove static id requirement from Wilderness
+ * fix bugs w server start script
+ * add database import scripts
+
+* (2014-3-27)
+
+ * add png conversion for Unity heraldry
+ * fix bugs w Recruit cycle
+ * fix bugs w Build Mode options
+ * add unity character flag route
+
+* (2014-3-26)
+
+ * fix backing up of timed events
+
+* (2014-3-25)
+
+ * fix bugs w Crafting completion
+ * fix bugs w Regeneration
+ * add lowered scenario goals for testing
+
 * (2014-3-24)
 
  * fix bugs w troop market
