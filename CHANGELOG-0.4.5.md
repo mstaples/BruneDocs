@@ -1,15 +1,63 @@
 CHANGELOG for 0.4.5
 ===================
 
+0.4.5.4
+
+* (2014-4-03)
+
+ * add overwatch combat test
+ * add overwatch of Blockade based combats
+ * add Military Power Rating
+
+* (2014-4-02)
+
+ * add overwatch to combat report
+ * add to combat records: overwatch deaths
+ * add to combat records: overwatch damage taken
+ * add to combat records: overwatch troops count
+ * fix bugs w action locking
+ * add overwatch troop damage from ranged
+ * add equipment handling for Garrison units
+ * add in some districts: ranged support from other districts in combats
+
+* (2014-4-01)
+
+ * add Garrison units to combat reports
+ * add Garrison units to combats where applicable
+ * fix bugs w Manage Shipping
+ * add Raiding seizing of enemy vessel depending on combat outcome
+ * add Raiding conditional looting on combat outcome
+
+* (2014-3-31)
+
+ * add Regional automatic trading returns
+ * add blockade pool vs blockaded trader combats
+ * add blockade contributors to blockade pool
+ * add vehicle combat
+ * add Regional info to Manage Shipping
+ * add Patrol option to Manage Shipping
+
+* (2014-3-30)
+
+ * add contribute to Health option to Manage Shipping
+ * add contribute to Prosperity option to Manage Shipping
+ * add all current settlements data for unity
+ * add Vehicle reliant combat report
+ * add Raiding bypass friendly Traders
+ * add Raiding chance of other Raider encounter
+ * add Raiding interceptions to automatic trading
+ * add Raiding option to Manage Shipping
+ * add By Region selection to Manage Shipping
+
 0.4.5.3
 
-* (2014-3-28)
+* (2014-3-29)
 
  * fix image load for Gallileo equipment type
  * fix bugs w Duel locking
  * fix bugs w Limit Output settings for Crafting buildings
 
-* (2014-3-27)
+* (2014-3-28)
 
  * fix bugs w Star Fortification map render
  * fix bugs w Palisade Line map render
