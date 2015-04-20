@@ -1,35 +1,32 @@
- CHANGELOG for 0.5.11
- ===================
+   CHANGELOG for 0.6.0
+   ===================
 
- 0.5.11.0
+   0.6.0.0
 
- * (2014-4-15)
+   * (2014-4-17)
 
-  * add prevent multiple declarations of friendship between the same characters
-  * fix bug w district header resize
-  * add refresh storage header info on initiate construction
-  * fix bug w Pet Birds output option for Tame Animals
-  * fix bugs w combat portraits display
-  * fix bugs w Encounter combat
-  * fix bugs w Fight in the Pit
-  * add new combat report layout
-  * add split combat messages between sides
-  * add army stats by round to combat report
-  * add formation bonuses to combat report
+    * add Accept or Refuse Coalition scenario
+    * add Coalition access by Class
+    * add Form Coalition action
 
- * (2014-4-14)
+   * (2014-4-16)
 
-  * fix bugs w can army use ranged, magic, artillery
-  * fix bugs w Unopposed Column bonuses
-  * fix bugs w Overwatch troops in combat
-  * add formation bonuses to damage calc
-  * add record tactics bonuses for combat
-  * add detect current army formation
-  * add record army combat stats by round
-  * fix bugs w markets popups
-  * fix bug w older garrison management form
-  * fix bug w found settlement
-  * fix actions for new characters
-  * fix bugs w character creation
-  * add Manage Transportation Storage
-  * fix bug w equipment display
+    * fix bugs w Industrial Report buttons
+    * fix bugs w relationships tabs
+    * add Relationships:Groups - invite group member
+    * add Relationships:Groups - eject group member
+    * add Relationships:Groups - change importance tax rate
+    * add Relationships:Groups - leave group option
+
+   * (2014-4-15)
+
+    * add Relationships:Groups - donate importance
+    * add Relationships:Groups - donate platinum
+    * add Relationships:Groups - add Member info
+    * add Relationships:Groups - add upkeep info
+    * add Relationships:Groups - add upgrade info
+    * add Groups to Manage->Relationships
+    * add Accept or Refuse Group scenario
+    * add universal 'Family' group type
+    * add Group access by Class
+    * add Form Group action
