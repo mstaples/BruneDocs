@@ -1,6 +1,49 @@
    CHANGELOG for 0.6.0
    ===================
 
+   0.6.0.2
+
+   * (2014-5-04)
+
+    * add Importance return on successful remove law
+    * add Action Point and Importance by Settlement Rank cost to initiate remove law
+    * add Remove Law based on legal control
+    * add prevent legal change within 4 hours of removing law
+    * add trigger vote on remove action based on Government
+    * add Remove Law option to department laws display depending on legal control
+    * fix bugs w Character Report popups
+    * fix bugs w Next Meal access
+    * add correct character importance errors from importance passing bug
+    * fix bugs w Importance passing
+    * add create Law on successful vote
+    * add importance return on successful legal change
+    * add prevent legal change within 4 hours of law creation
+    * add prevent legal change within 4 hours of vote initiation
+    * add initiate Vote on legal change based on Government
+    * add Importance cost for legal change by settlement rank
+    * add Secret Actions legal / illegal by Department to legal control
+
+   * (2014-5-03)
+
+    * fix bugs w Change Economy
+    * fix bugs w Change Society
+    * add updates to broadcast email
+    * add legal / illegal Actions by Department to legal control
+    * add Select Type / Subtype to legal control
+    * add Select Aspect to legal control
+    * add Action Point requirement to legal control
+    * add require Political Council to legal control
+    * add detect legal control on departments law pages
+    * add detect legal access to manage->government
+
+   * (2014-5-02)
+
+    * fix detailed storage popup
+    * add scroll icon for edicts
+    * add laws, edicts, proclamations buttons to department pages
+    * add Silver Thaler image
+    * add updated copyright notice
+
    0.6.0.1
 
    * (2014-5-02)
