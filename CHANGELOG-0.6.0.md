@@ -1,6 +1,57 @@
    CHANGELOG for 0.6.0
    ===================
 
+   0.6.0.3
+
+   * (2014-5-08)
+
+    * add api route for district population residencies and rents by building type
+    * add api route for settlement population data
+    * add building staff info to api district_buildings
+    * add updated api routes
+
+   * (2014-5-07)
+
+    * fix bugs w Silver name change
+    * fix bugs w Imbolc
+    * fix Compete in Musical Competition bonus
+    * fix permissions message
+    * fix tutorials alert
+    * fix bugs w Garrisons permissions
+    * add restore Ministry permissions to default on government change
+    * add per Ministry per Government aspect permissions
+    * fix bugs w Major AP restore
+    * add Ministry Permissions button to departments and ministers page
+
+   * (2014-5-06)
+
+    * fix bug w Citizenship load
+    * fix remove targeted social and political actions from favorites
+    * fix bug w mini-map image map link placement
+    * add population voting preference by Character / Pop type
+    * add population voting preference by Class / Pop type
+    * add Classless Society edict effects
+    * add Classless Society Edict option
+    * add Slavery edict effects
+    * add Slavery Edict option
+
+   * (2014-5-05)
+
+    * add Settlement Broadcast Message proclamation
+    * add Rich Text form field editor
+    * add Proclamations to department pages
+    * add break ties based on government
+    * add 10% AP penalty for hero-ministers
+    * add Welfare Edict
+    * add Immigrate and Emigrate Edicts
+    * fix error in Reject Fealty
+    * fix bug w Change Economy
+    * add Write Custom Law
+    * add Law importance upkeep
+    * add action: Ban From Settlement
+    * add front page banner links to greenlight and downloadable client
+    * add remove law on appropriate vote completion
+
    0.6.0.2
 
    * (2014-5-04)
