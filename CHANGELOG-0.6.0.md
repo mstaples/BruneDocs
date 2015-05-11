@@ -1,6 +1,41 @@
    CHANGELOG for 0.6.0
    ===================
 
+   0.6.0.4
+
+   * (2014-5-11)
+
+    * fix bugs w markets: integers to bigints
+    * add to Catalog: Economies info
+    * add to Catalog: Societies info
+    * add to Catalog: Governments info
+    * fix bugs w Create New Settlement
+    * fix bugs w Create New Lord
+    * fix frontpage banner display on firefox
+    * fix bugs w catalog display
+    * add extended law description length
+    * fix harvest tax reporting
+
+   * (2014-5-10)
+
+    * add fealty chain pledge relations
+    * fix government departments loading
+    * fix ap building route
+    * add launch council action on icon select
+    * add active / inactive indication to council icons
+    * add councils icons to department
+    * fix bug w inactive building notice
+
+   * (2014-5-09)
+
+    * add Fallen Lord attribute penalties
+    * add Fallen Lord Sovereign succession
+    * add Fallen Lord Ministers lose Ministries
+    * add 10% warning buffer to Fallen Lord importance minimum
+    * add Fallen Lord status to Lords under min importance for rank
+    * add afford / prerequisite info to diploacy actions on int relations page
+    * add diplomacy actions to international relations page
+
    0.6.0.3
 
    * (2014-5-08)
