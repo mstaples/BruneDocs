@@ -1,6 +1,74 @@
    CHANGELOG for 0.6.3
    ===================
 
+   0.6.3.2
+
+   * (2014-5-26)
+
+    * add State Currency: add to Catalog
+    * add State Currency: exchange option
+    * add State Currency: exchange law
+    * add State Currency: add to Banks / Exchanges
+    * fix divide by zero error on action point free actions
+    * add State Currency: add to owned currency data
+    * add State Currency: add to Bank Withdrawal options
+    * add State Currency: add to Bank Deposit options by level
+    * add State Currency: add to Bank Account overview display
+    * add inflation / deflation tracking to building construction / upkeep usage
+    * add audit coin currency command
+    * add State Currency: add Currency item type
+    * add State Currency: add to settlement has amount tracking
+    * add State Currency: add to has amount tracking
+    * add State Currency: add to Shared Storage view
+    * add State Currency: add to Personal Storage view
+    * add State Currency: captioning to forms
+    * add get storage records
+    * add State Currency: current circulation tracking
+    * add State Currency: pvi tracking
+    * add State Currency: adopt by settlement
+    * add State Currency: restore by settlement
+    * add State Currency: dissolve
+
+   * (2014-5-25)
+
+    * add has Settlement Stuff
+    * add unprotect Settlement Stuff
+    * add Give Settlement Stuff
+    * add Take Settlement Stuff
+    * add Protect Settlement Stuff
+    * fix bug w Proclamation bonus percentage
+    * fix percentage storage on backed currency value
+
+   * (2014-5-23)
+
+    * add to accepted email addresses for contributors
+    * fix bug w Ships Dock
+
+   * (2014-5-17)
+
+    * add reload settlement on leave
+    * add update header on encounter death
+    * fix bug w Carts Arrive & Boats Dock
+    * add update census more user friendly
+    * fix bug w offers refresh on market purchase
+    * fix bug w action point booster effect
+    * fix elite actions taking action points
+    * fix bug w market buttons
+    * add waiting message to new settlement form
+    * add Reports to Hero navbar
+    * fix bug w launch popup
+    * fix bug w Encounter Deaths
+    * fix bug w Encounter Options
+    * add State Currency: award State Currency to Settlement on creation
+    * add State Currency: handing to takeStuff
+    * add State Currency: show current currency info
+    * add State Currency: change backing
+    * add State Currency: adopt
+    * add State Currency: issue
+    * add State Currency: restore
+    * add State Currency: create / name
+    * add State Currency: option to Commerce Department
+
    0.6.3.1
 
    * (2014-5-16)
