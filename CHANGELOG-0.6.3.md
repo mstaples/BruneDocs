@@ -1,6 +1,41 @@
    CHANGELOG for 0.6.3
    ===================
 
+   0.6.3.3
+
+   * (2014-5-29)
+
+    * add custom titles to editors
+    * add flags to leader boards
+    * add flags to building info
+    * add flags to fealty relations
+    * add flags to personal relations
+
+   * (2014-5-28)
+
+    * add custom currency display to catalog
+    * add custom currency display to storage item popup
+    * add custom currency display to market offers
+    * add custom currency display to storage
+    * add custom currency to currency control panel
+    * add custom currency editor
+    * fix bug w building material inflation / deflation check
+    * add currency custom design check
+    * fix bug w audit build_mode command
+    * add currency report command to show current currency / inflation / deflation
+    * fix bug w Released / Fired ministers retaining active building records
+    * add Settlement Flag design editor
+    * add Settlement Flag to header display
+
+   * (2014-5-27)
+
+    * add update Warehouse catalog description
+    * add update Warehouse bonus from shared storage to government storage
+    * fux bugs w unity session requests
+    * add turn off upkeep for testing
+    * fux bug w Law upkeep
+    * add data-cfasync=false to js to protect from cloudflare
+
    0.6.3.2
 
    * (2014-5-26)
