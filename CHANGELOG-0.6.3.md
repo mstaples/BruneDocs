@@ -1,6 +1,116 @@
    CHANGELOG for 0.6.3
    ===================
 
+   0.6.3.4
+
+   * (2014-6-4)
+
+    * add Science Bonuses: transition scenariso
+    * add Science Bonuses: process
+    * add Science Bonuses: harvest
+    * add Science Bonuses: district defense
+    * add Science Bonuses: happiness
+    * add Science Bonuses: housing space
+    * add Science Bonuses: construction materials
+    * add Science Bonuses: capacity max
+    * add Science Bonuses: fealty max
+    * add Science Bonuses: building structure max
+    * add Science Bonuses: artillery
+    * add Science Bonuses: equipment
+    * add Science Bonuses: attribute bonuses
+    * add Science Bonuses: action costs
+    * add Science Bonuses: action ap cost
+    * add Science Bonuses: zodiac effects
+    * add Science Bonuses: salvage building costs
+    * add Science Bonuses: market offers
+    * add Science Bonuses: train cargo
+    * add Science Bonuses: taxation
+    * add Science Bonuses: action costs
+    * add Science Bonuses: diplomacy costs
+    * add Science Bonuses: unit upkeep
+    * add Science Bonuses: income buildings
+    * add Science Bonuses: unit recruiting
+    * add Science Bonuses: spellcrafter crafting
+    * add Science Bonuses: regenerate mp, ap
+
+   * (2014-6-3)
+
+    * add message and notify department option
+    * add Research horizontal scrolling subsections
+    * add Research categories display
+    * add Research buildings view
+    * add Research Tree view
+    * add Research set building research button
+    * add Research info to buildings
+    * fix display bugs w manage building salary form
+    * fix bugs w research notifications
+
+   * (2014-6-2)
+
+    * fix fallen lord warning timer
+    * add remove multiple and/or orphaned pledge records to importance audit
+    * fix bugs w importance passing
+    * add Research Unlock Level form
+    * add Research group research slots by group rank
+    * add Research First Tier units display
+    * add Research First Tier equipment display
+    * add Research First Tier buildings display
+    * add Research topic Research, Upgrade, Examine options
+    * add Research topic display
+    * add Research display group's research
+
+   * (2014-6-1)
+
+    * add Research calc by researcher attributes
+    * add Settlement, Group, Building notification options
+    * add Research staffed buildings by building rank
+    * add Research to character nav
+    * fix bugs w Government departments display
+    * add Research individual research tracking
+    * add Research manage page
+    * add Research select group to receive research
+    * add Ministry + jobs limits
+    * fix bugs w Ministers government display
+    * fix bugs w Foreign Nationals display
+    * add Researcher salary options to non-output buildings
+    * add Researcher to set building salary options
+    * add Research Upkeep timed events for settlements
+    * add Research timed events for settlements
+    * add Research generate from researcher jobs
+    * add Research notifications for shortages
+    * add Research upkeep for groups
+    * add Research upkeep for settlement
+
+   * (2014-5-31)
+
+    * fix bugs w Banning residents
+    * add Ministry as job category
+    * add ability to Ministers to take jobs
+
+   * (2014-5-30)
+
+    * add Researcher jobs to Find Work display
+    * add Researcher to player job types
+    * add Ministry display
+    * add updated api return district housing
+    * add Research upkeep costs by level
+    * add Research costs by level
+    * add Research based building blueprint access
+    * add Research based recruiting access
+    * add Research based crafting access
+    * add Research find character access level
+    * add currency market reset
+    * add Research prerequisites
+    * add Research technologies
+    * add Research sciences
+    * add Research icon
+
+   * (2014-5-29)
+
+    * fix bug w Trains Arrive
+    * add remove currencies from transport returns
+    * fix bug w action access with no ap cost
+
    0.6.3.3
 
    * (2014-5-29)
