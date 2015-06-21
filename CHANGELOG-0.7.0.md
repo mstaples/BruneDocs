@@ -1,6 +1,53 @@
    CHANGELOG for 0.7.0
    ===================
 
+   0.7.0.1
+
+   * (2014-6-20)
+
+    * add Regional immigration effects to Region selection captions
+    * add immigration messaging for homeless
+    * add immigration messaging by district
+    * fix bug w homelessness calc in immigration
+    * add immigration effect by Regional population
+    * add Regional population tracking
+    * fix bug w combat adventure expiring
+    * add immigration overflow by happiness
+
+   * (2014-6-19)
+
+    * fix bug w Parley
+    * add Edict: Apprenticeships
+    * add Edict: No Escape
+    * add Criminal, Heretic, Vampire happiness costs
+    * fix bug w Horse->Horses
+    * add Edict: Slavery
+    * add Edict: Classless Society
+    * add expanded population types to pop census
+    * add expanded population types to pop summary
+    * add children, elderly, sick icons
+    * add Euthanasia proclamation
+
+   * (2014-6-18)
+
+    * add dynamic population: settlement sale offers
+    * add dynamic population: vampires caught
+    * add dynamic population: criminals caught
+    * add dynamic population: heretic caused religious changes
+    * add dynamic population: vampire attacks
+    * add dynamic population: heretic conversions
+    * add dynamic population: workers become vampires
+    * add dynamic population: workers become heretics
+    * add dynamic population: workers become criminal
+    * add dynamic population: sick deaths
+    * add dynamic population: sick get well
+    * add dynamic population: workers get sick
+    * add dynamic population: elderly deaths
+    * add dynamic population: workers grow old
+    * add dynamic population: children grow up
+    * add dynamic population: children created
+    * add modifications to immigration percentages
+
    0.7.0.0
 
    * (2014-6-17)
