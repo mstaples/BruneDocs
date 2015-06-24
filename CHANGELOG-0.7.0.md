@@ -1,6 +1,64 @@
    CHANGELOG for 0.7.0
    ===================
 
+   0.7.0.2
+
+   * (2014-6-24)
+
+    * add corruption losses to Taxation reporting
+    * fix bug w button highlight and jumping on Settlement Creation
+    * add religion bonus information to Settlement Creation
+    * add corruption information to caption in Settlement Creation
+    * add corruption information to Government, Society, and Economy pages
+    * add population, coin, and output images to income management
+    * add corruption currency amounts to populace storage
+    * add corruption subtraction from taxation transactions
+    * add corruption values to Governments, Societies, Economies
+
+   * (2014-6-23)
+
+    * add multiple subject side scrolling to research
+    * add pickpocket removes currency from populace storage
+    * add troop upkeep adds currency to populace storage
+    * add income building remove paid out currency from populace storage
+    * add income building shortage messaging
+    * add income building output messaging
+    * add income building competition recursion while population and currency and buildings available
+    * add income buildings compete for customers by value
+    * add income buildings compete for customer share by value exchange
+    * add income building limit by currency available to populace
+    * add income building limit by building type by level
+    * add income building order by transaction value to populace
+    * add income building limit to 1 transaction per population
+    * add income building by population type
+    * add income building apply bonuses / penalties to max serving capacity
+    * add income building welfare income effect
+    * add income building from currency currently stored by population
+    * add income building add select random Good / Resource when not provided
+
+   * (2014-6-22)
+
+    * add income building form access by ownership / role
+    * add income building update usage / serving information with pricing changes
+    * add income building form: select output for "Resource" and "Good" types
+    * add income building usage / serving capacity information
+    * add income building currency type information
+    * add income building population type information
+    * add income building form: set pricing percentage
+    * add income building form: limit output
+    * add income building form: turn on / off individual income type
+
+   * (2014-6-21)
+
+    * fix bug w Diet options
+    * fix bug w Research levels
+    * add custom district names to district page, district icons
+    * add custom building names to manage building, building icons, map overview
+    * add custom district names to action targeting
+    * add custom building names to action targeting
+    * add custom names for districts
+    * add custom names for buildings
+
    0.7.0.1
 
    * (2014-6-20)
