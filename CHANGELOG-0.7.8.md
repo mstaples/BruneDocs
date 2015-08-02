@@ -1,6 +1,71 @@
    CHANGELOG for 0.7.8
    ===================
 
+   0.7.8.1
+
+   * (2014-7-31)
+
+    * add Boat and Ship consolidated messaging by region
+    * fix bugs w transport trading awards by region
+    * add consolidated Train trading messaging by region
+    * fix bug w transport unit upkeep loss messaging
+    * fix bug w troop upkeep coin calc
+    * fix construction queue max rounding
+    * fix bugs w shipping times
+    * fix bugs w api building info view
+    * add cancel direct trade option
+
+   * (2014-7-24)
+
+    * fix bugs w sell / purchase private property
+    * add district construction queues view / manage to ui
+    * add Manage Shipping options to Government Commerce Department
+    * add select next civic construction job by time created
+    * add select next private construction job by bid
+    * add raise bid on job in private construction queue
+    * add alter bid for private construction queue
+    * add owner cancel job in construction queue
+    * add bid to be added to private construction queue
+    * add add to civic construction queue
+    * add award private construction bids to NPC population on construction start
+    * add check for competing private construction queue bids and space on 15 minute timer
+    * add civic construction queue limit by settlement rank
+    * add private construction queue limit by settlement rank
+
+   * (2014-7-21)
+
+    * add Denomination Education to Faith research effect
+    * add Coalitions actions
+    * add Coalitions info page
+    * add Promote and Demote group member options
+    * add Group member titles and permissions by Group Rank
+    * add Union bonus to government effects
+    * add Family exception to unselected group in exclusive settlement penalties
+    * add Union group upkeep effect
+
+   * (2014-7-20)
+
+    * add Lodge member research bonus
+    * add Party member NPC voting bonus
+    * add Order member Faith bonus
+    * add Dynasty member troop upkeep bonus
+    * add Lodge member reduction to housing residence effect
+    * add Change Home option for disallowed Groups in exclusive settlements
+    * add Order members Importance penalty from Secret Actions
+    * add Consortium member states prevent outlawing of Classes, Actions, Buildings
+    * add Denomination member states prevent legalization of Secret Actions
+    * add League prevent laws against Equipment, Science, Buildings
+    * add Federation members states prevent external Alliances
+    * add prevent negative diplomatic relations between Coalition member states
+    * fix bug w Cenotaph income bonus
+    * add League members free Trade Treaty
+    * add Kingdom members diplomacy costs bonus
+    * add Federation members free Defense Pact
+    * add Guild member earn income bonus
+    * add Regeneration reduction for members of disallowed groups in exclusive settlements
+    * add revoke citizenship for members of disallowed groups in exclusive settlements
+    * add Upkeep penalties for disallowed groups in exclusive settlements
+
    0.7.8.0
 
    * (2014-7-19)
