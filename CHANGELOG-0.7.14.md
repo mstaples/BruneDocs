@@ -1,9 +1,66 @@
    CHANGELOG for 0.7.14
    ===================
 
+   0.7.14.1
+
+   * (2015-9-04)
+
+    * add Daily Award: Contribute to Scenario
+    * add Daily Award: Market Transaction
+    * add Daily Award: Participate in Battle
+
+   * (2015-9-03)
+
+    * add Daily Award: conditional regen amount / bonus
+    * add Daily Award: conditional Xp amounts
+    * add Daily Award:Participate in Duel
+    * add Daily Award: reward message
+    * fix bug w duel take action
+    * fix bug w duel targeting
+    * add Daily Award:Visit Home
+    * add Daily Award:Visit Work
+
+   * (2015-9-02)
+
+    * fix bug w do action results
+    * add Daily Award: Perform 3 Actions
+    * add forum session handling from game
+    * add remove daily award bonuses on day cycle
+    * add static ap regen bonus
+
+   * (2015-9-01)
+
+    * add Forum Welcome message on character's first selection of forum
+    * add create World topic action: World forums options
+    * fix bug w create Settlement topic action character posting
+    * add create Settlement topic action: Settlement forums options
+    * fix bug w create Novice topic action character posting
+    * add create Novice topic action: post content
+    * add create Novice topic action: Novice forums options
+    * remove create topic options from within forum
+    * add refresh opinion info in ui when used in forum
+
+   * (2015-8-30)
+
+    * add refresh opinion info in ui when used in forum
+    * add opinion info to ui
+    * add reputation to opinions in forum messages
+    * add contact employees to building view
+    * add group messaging
+    * add top minister messaging to department ministers
+
+   * (2015-8-29)
+
+    * create forum login action
+    * fix bug w private messages
+    * add contact landlord to housing view
+    * add contact tenants to building view
+    * add contact owner to building view
+    * fix bug w character forum login attempts
+
    0.7.14.0
 
-   * (2014-8-28)
+   * (2015-8-28)
 
     * fix bug w multiple unit position records per combat
     * fix bug w multiple combat records
@@ -13,7 +70,7 @@
     * fix bugs w get fatigue on troops w no unit records
     * add deserter unit messages to combat rounds
 
-   * (2014-8-27)
+   * (2015-8-27)
 
     * add death unit messages to combat rounds
     * add by unit damage messages to combat rounds
@@ -23,20 +80,20 @@
     * add Ghoul special ability: restore fatigue on victory
     * add Giant special ability: might x opponents
 
-   * (2014-8-26)
+   * (2015-8-26)
 
     * add Spirit special ability: take half damage
     * add Golem and Troll special abilities: no death in victory
     * add Lich special ability: raise killed enemies as skeletons / zombies on win
     * fix bug w verbose vs concise attribute data returns
 
-   * (2014-8-24)
+   * (2015-8-24)
 
     * fix bug w bonus amount by extant unit calc
     * add own army special ability attribute penalty
     * add opposing army special ability attribute penalties
 
-   * (2014-8-23)
+   * (2015-8-23)
 
     * add unit special ability: opposition tactics effects penalty
     * add unit special ability: overwatch defense
@@ -44,14 +101,14 @@
     * add unit special ability: range resistance
     * add unit special ability: range bonus
 
-   * (2014-8-22)
+   * (2015-8-22)
 
     * add deserters checks for current combat army attribute calc
     * add get troop attributes by individual troop or by army
     * add consolidated unit special ability attribute bonus checks
     * add troop home settlement
 
-   * (2014-8-21)
+   * (2015-8-21)
 
     * add consolidated troop attribute request
     * add consolidated troop equipment and attribute bonus calc
@@ -61,7 +118,7 @@
     * add new unit special abilities to catalog
     * add unit names to individual unit records
 
-   * (2014-8-20)
+   * (2015-8-20)
 
     * fix bug w auto generate mediawiki actions pages
     * fix bug w facebook account records
@@ -75,7 +132,7 @@
     * fix json response on market back / next page
     * add monster unit to simulated combat opponent options
 
-   * (2014-8-19)
+   * (2015-8-19)
 
     * add php7 handling for mediawiki symfony auth
     * add php7 handling for phpbb private messaging
@@ -83,7 +140,7 @@
     * add php7 handling for phpbb message parsing
     * add php7 handling for phpbb bbcodes
 
-   * (2014-8-17)
+   * (2015-8-17)
 
     * add monster unit images
     * add artillery, magic unit catalog categories
@@ -92,17 +149,17 @@
     * add monster unit population type
     * add magic, artillery, monster catalog descriptions
 
-   * (2014-8-16)
+   * (2015-8-16)
 
     * add magic unit crafting
     * add artillery unit crafting
     * add unit types to units
 
-   * (2014-8-15)
+   * (2015-8-15)
 
     * add supervisord sustained chat server
 
-   * (2014-8-14)
+   * (2015-8-14)
 
     * fix bug w chat message delivery
     * add send chat message on 'return' keypress
