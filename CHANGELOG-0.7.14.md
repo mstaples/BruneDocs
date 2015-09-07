@@ -13,11 +13,18 @@
 
    * (2015-9-06)
 
+    * add Transportation Slot Management: Recruit building shut down based on slot availability
+    * add Transportation Slot Management: Slot based location on transport recruit
     * add Transportation Slot Management: Relocate or destroy unhoused transport
     * add Transportation Slot Management: Increase transport slots on building upgrade
     * add Transportation Slot Management: Decrease transport slots on building downgrade
     * add Transportation Slot Management: Create transport slot record on building creation
+    * add Transportation Slot Management: Relocate or destroy transport on disqualifying setting change
+    * add Transportation Slot Management: Notify storage users on setting change
+    * add Transportation Slot Management: Rent "For Rent" storage spots
     * add Transportation Slot Management: Change Transport Storage Building
+    * add Transportation Slot Management: Update storage users on rent change
+    * add Transportation Slot Management: Change "For Rent" Slot Price
     * add Transportation Slot Management: Change Slot Settings
     * add Transportation Slot Management: For Rent
     * add Transportation Slot Management: Government
