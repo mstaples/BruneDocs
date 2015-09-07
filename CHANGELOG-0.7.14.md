@@ -1,6 +1,38 @@
    CHANGELOG for 0.7.14
    ===================
 
+   0.7.14.2
+
+   * (2015-9-07)
+
+    * add Sell Transportation Unit: rented slot messaging
+    * add Sell Transportation Unit: slot shortage messaging
+    * add Sell Transportation Unit: Sale fails if no qualifying slots available
+    * add Sell Transportation Unit: Remove crew on sale
+    * add Sell Transportation Unit: Transfer Slot ownership on transport sale
+
+   * (2015-9-06)
+
+    * add Transportation Slot Management: Relocate or destroy unhoused transport
+    * add Transportation Slot Management: Increase transport slots on building upgrade
+    * add Transportation Slot Management: Decrease transport slots on building downgrade
+    * add Transportation Slot Management: Create transport slot record on building creation
+    * add Transportation Slot Management: Change Transport Storage Building
+    * add Transportation Slot Management: Change Slot Settings
+    * add Transportation Slot Management: For Rent
+    * add Transportation Slot Management: Government
+    * add Transportation Slot Management: Private
+    * add Transportation Slot Management: Civic
+
+   * (2015-9-05)
+
+    * fix bug w inflict army damage
+    * fix bug w showing char names w special chars in chat list
+    * add Daily Award: Use Forum Opinion
+    * add Daily Award: Be in Chat > 2 minutes
+    * add Daily Award: Share on Twitter
+    * add Daily Award: Share on Facebook
+
    0.7.14.1
 
    * (2015-9-04)
