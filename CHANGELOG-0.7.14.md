@@ -1,6 +1,84 @@
    CHANGELOG for 0.7.14
    ===================
 
+   0.7.14.3
+
+   * (2015-9-19)
+
+    * add api get achievements route
+    * add get next skill achievement
+    * add get next secret achievement
+    * add get next level achievement
+    * add get next rank achievement
+    * add get next trait achievement
+    * add get next class achievement
+    * add settlement achievements report
+    * add character achievements report
+
+   * (2015-9-18)
+
+    * add award new achievement
+    * add check character achievements on character select
+    * add check settlement achievements on sovereign select
+    * add search achievements for edit
+    * add edit achievements by missing steam id
+    * add edit achievements by missing steam num
+    * add edit achievements by missing description
+    * add edit achievements by missing image
+    * add edit achievement form
+
+   * (2015-9-17)
+
+    * add achievement notice to skill level up
+    * add achievement notice to rank up
+    * add achievement notice to % 50 levels
+    * add import achievements command
+    * add cede acres history output to ui
+    * add cede acres record keeping by donation target
+
+   * (2015-9-16)
+
+    * add images to cede acres award output
+    * add updated cede acres award content
+    * add updated cede acres award chances
+    * fix form fragment container
+
+   * (2015-9-15)
+
+    * update cede acres admin output
+    * add new cede acre tier chances
+    * add import cede acres command
+    * update test voting command
+
+   * (2015-9-09)
+
+    * fix landing page login buttons
+
+   * (2015-9-08)
+
+    * fix landing page js
+    * add forum default layout to wide
+    * add redeemed time to premium purchase record
+    * add make logged character optional for premium purchase
+    * add integrate purchase premium form messaging
+    * add purchase premium page
+    * add purchase premium form
+    * add skip character selection option if missing records
+    * add "Not a populated region" message for targeting where appropriate
+    * ts wiki db credentials
+    * add fav icon to landing page
+    * fix bug w main page load
+
+   * (2015-9-07)
+
+    * fix bugs w tutorials
+    * fix character creation flow
+    * add indiedb graphic client download to landing page
+    * add support to landing page
+    * add forums to landing page
+    * add wiki to landing page
+    * add new landing page layout
+
    0.7.14.2
 
    * (2015-9-07)
