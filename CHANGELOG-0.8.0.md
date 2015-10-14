@@ -1,6 +1,40 @@
    CHANGELOG for 0.8.0
    ===================
 
+   0.8.0.2
+
+   * (2015-10-12)
+
+    * add: Time of Troubles abandoned Settlement decay
+
+   * (2015-10-10)
+
+    * fix bugs w Diplomacy Council actions
+
+   * (2015-10-7)
+
+    * add Server Broadcast Message
+    * fix bug: hero selection element blocking
+    * fix bug: government prisoners
+    * fix bug: tax report on lack of transactions
+    * fix bug: Annul Friendship selection refresh
+    * fix bug: alter records percentage target
+    * fix bug: Basilica fixture spelling
+    * add Colonnade bonus from static to percentage
+
+   * (2015-10-6)
+
+    * fix bug: missing settlement id
+    * fix bug: Hero attribute bonus effects
+    * fix bug: Hero attribute access
+    * fix bug: Hero rank achievements
+    * fix bug: access to district blueprints
+
+   * (2015-10-5)
+
+    * fix bug: fix bugs w access to world market from wilderness
+    * fix bug: fix bugs w forum group access
+
    0.8.0.1
 
    * (2015-10-4)
