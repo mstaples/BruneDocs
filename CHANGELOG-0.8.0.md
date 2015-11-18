@@ -1,6 +1,107 @@
    CHANGELOG for 0.8.0
    ===================
 
+   0.8.0.3
+
+   * (2015-11-16)
+
+    * add to research service: get research topic choices
+    * add to research service: get research buildings by district
+    * add to research service: get research districts
+    * add subtype to research technology records
+    * add bonus target to research science records
+
+   * (2015-11-15)
+
+    * add set research service method
+    * add select research form to building management view
+    * add select building research form
+    * add select research group form
+    * add select research district form
+    * add select research building form
+
+   * (2015-11-14)
+
+    * add select research type form
+    * add select research subtype form
+    * add research form controller
+    * add research subtypes
+
+   * (2015-11-12)
+
+    * add new attribute base amounts
+    * add messaging for conditional law access
+
+   * (2015-11-11)
+
+    * add law access by economy type
+    * add change market access by law
+    * fix bug w negative forum opinion total effect
+    * fix bug w forum opinion access
+
+   * (2015-11-04)
+
+    * fix bug w action cost calc
+    * fix bug w district access
+    * fix bug w encounters blocking gameplay
+    * fix bug w bundles in repo
+
+   * (2015-10-25)
+
+    * add remove duplicate scripts
+    * fix bug w bio opinions
+    * fix bug w character select refresh
+
+   * (2015-10-18)
+
+    * fix bug w initiate vote
+    * fix bugs w Custom Law
+    * add actions panel to overview
+    * remove actions menu drop downs
+    * add graphic Actions menu
+
+   * (2015-10-17)
+
+    * fix bug w district happiness view
+    * fix bug w notifications
+    * fix bug w actions overview toggle
+    * update combat defender view
+    * update combat attacker view
+    * add combat round view
+    * add view combat report
+    * add prepare combat to simulate combat
+    * add duel to simulate combat
+    * add equipment to simulate combat
+
+   * (2015-10-16)
+
+    * add civic system bonuses to get char army bonuses in attribute service
+    * add traits bonuses to get char army bonuses in attribute service
+    * add get zodiac defense bonus to attribute service
+    * add get zodiac damage bonus to attribute service
+    * add get phase damage bonus to attribute service
+    * add morale tracking to combat records
+    * add deserted units tracking to combat position records
+
+   * (2015-10-14)
+
+    * add apply army bonuses to attribute service
+    * add bonus data to get char army bonuses
+    * add get non combat army array to attribute service
+    * add get phase magic resist effect to attribute service
+    * add prevent units acting as transport crews from joining combat armies
+    * add army object
+    * add default unit fatigue
+    * add hit, miss, crit to combat position records
+    * add mana point cost to combat position records
+    * update combat bonus records w category and id
+    * add unit special ability desc records
+    * add test for combat: Raid
+    * add test for combat: Duel
+    * add test for combat: Battle
+    * add test for combat: Encounter
+    * add examine combat bonus records command
+
    0.8.0.2
 
    * (2015-10-12)
