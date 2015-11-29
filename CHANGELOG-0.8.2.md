@@ -1,6 +1,54 @@
    CHANGELOG for 0.8.2
    ===================
 
+   0.8.2.1
+
+   * (2015-11-28)
+
+    * update intercept attack to use new combat system
+    * add view combat notification to intercept attack
+    * add do opposed combat tactics to intercept attack
+    * add prepare combat to intercept attack
+    * add armies to intercept attack
+    * fix settlement region in action results
+
+   * (2015-11-26)
+
+    * add manage vehicle repo destroy transport unit
+    * update scenario contribution interceptions to use new combat report
+    * update action results to use new combat report
+
+   * (2015-11-25)
+
+    * update fightDuel to use combat_id
+    * fix issues w combat award kills
+    * fix issues w image path in combat fight
+    * fix issues w voting menu
+    * fix issues w scenario menu
+    * fix issues w create adventure form appearance
+
+   * (2015-11-24)
+
+    * fix issues w answer declaration
+    * update ships dock interceptions to use new vehicle combat
+    * update boats dock interceptions to use new vehicle combat
+    * update trains arrive interceptions to use new vehicle combat
+    * update carts arrive interceptions to use new vehicle combat
+
+   * (2015-11-23)
+
+    * update scenario contribution interceptions to use new vehicle combat
+    * update action results interceptions to use new vehicle combat
+    * fix issues w errant raid
+    * add initiateDuel to combat service
+    * add messaging to add adventure admin form
+
+   * (2015-11-22)
+
+    * fix bug w action result character ids
+    * add fight duel command
+    * fix issues w forum install
+
    0.8.2.0
 
    * (2015-11-21)
