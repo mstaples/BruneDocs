@@ -14,6 +14,7 @@
 
    * (2015-11-26)
 
+    * add ship crews to prepare combat 
     * add manage vehicle repo destroy transport unit
     * update scenario contribution interceptions to use new combat report
     * update action results to use new combat report
