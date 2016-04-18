@@ -1,6 +1,21 @@
    CHANGELOG for 0.9.3
    ===================
 
+   0.9.3.1
+
+   * (2016-04-17)
+
+    * add group, family, coalition flag expansion
+
+   * (2016-04-16)
+
+    * add consolidated flag records
+
+   * (2016-04-14)
+
+    * fix bugs w trade treaties
+    * fix bugs w embargoes
+
    0.9.3.0
 
    * (2016-04-10)
