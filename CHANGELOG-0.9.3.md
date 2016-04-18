@@ -5,6 +5,7 @@
 
    * (2016-04-17)
 
+    * add randomize character creation option
     * add group, family, coalition flag expansion
 
    * (2016-04-16)
