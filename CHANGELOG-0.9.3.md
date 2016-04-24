@@ -1,6 +1,49 @@
    CHANGELOG for 0.9.3
    ===================
 
+   0.9.3.2
+
+   * (2016-04-24)
+
+    * add resource image to input selection options
+    * fix input options for processing buildings
+    * add keep ministry application on prevented hire action
+    * fix policy messaging in Hire Ministers check
+    * add in-government flow to Hire Ministers
+    * fix bugs with Hire Ministers
+    * fix display overflow on fealty relationship
+    * add "all" international relationships option
+    * add personal relationships to front of relationships page
+    * add instant layout update on preference change
+
+   * (2016-04-23)
+
+    * add new action images
+    * fix missing backgrounds in Dark theme
+    * fix text visibility in Dark theme
+
+   * (2016-04-22)
+
+    * add flag selection options to preferences
+    * add flag display / edit option to preferences
+
+   * (2016-04-21)
+
+    * fix expanded editor options on preferences / character report bio forms
+
+   * (2016-04-20)
+
+    * add new action images
+    * add character based shape access to design editor
+
+   * (2016-04-19)
+
+    * update svg design editor version
+
+   * (2016-04-18)
+
+    * add new action images
+
    0.9.3.1
 
    * (2016-04-17)
