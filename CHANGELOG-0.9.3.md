@@ -1,6 +1,53 @@
    CHANGELOG for 0.9.3
    ===================
 
+   0.9.3.3
+
+   * (2016-05-01)
+
+    * fix attribute info visibility
+    * add research topic info popups
+    * add Research Tree
+
+   * (2016-04-29)
+
+    * add social trait drop downs
+    * add quick character creation option
+    * fix bugs w character creation
+
+   * (2016-04-28)
+
+    * fix bugs w research
+    * fix bugs w recruit action
+    * fix bugs w assimilate culture
+    * fix bugs w wiki
+
+   * (2016-04-27)
+
+    * add new action images
+
+   * (2016-04-26)
+
+    * fix bugs w notification spam
+    * fix bugs w randomize character creation
+    * add new action images
+
+   * (2016-04-26)
+
+    * fix bugs w negotiating friendship alliance
+    * fix bugs w negotiating defense pact
+    * fix bugs w negotiating trade treaty
+    * fix bugs w negotiating non aggression
+    * fix bugs w negotiating alliance
+    * fix bugs w invite message text
+    * fix bugs w actions output messaging
+    * fix password reset form messaging error
+    * fix zombie scenario effects
+
+   * (2016-04-25)
+
+    * fix bugs in relationships
+
    0.9.3.2
 
    * (2016-04-24)
