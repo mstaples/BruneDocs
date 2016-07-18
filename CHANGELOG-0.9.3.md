@@ -1,6 +1,66 @@
    CHANGELOG for 0.9.3
    ===================
 
+   0.9.3.4
+
+   * (2016-07-17)
+
+    * fix settlement info gov, eco, soc display
+
+   * (2016-07-16)
+
+    * add increased button size on mobile
+    * add action overlay panel on light
+
+   * (2016-07-15)
+
+    * add navbar icons on light
+    * add action categories page on light
+    * add action option to go to menu on light
+    * remove invisible action options from lower nave on light
+    * remove Q & S options from lower nav on light
+    * add increased icon size on light
+    * add increased font size on light
+
+   * (2016-07-14)
+
+    * add 50/level storage capacity increase
+
+   * (2016-07-04)
+
+    * fix bug on mobile display
+    * fix attribute displays across layouts
+    * fix attribute display info positioning
+    * fix attribute display text visibility
+    * fix bug w class names during character creation
+
+   * (2016-06-25)
+
+    * add transport basic research category
+    * fix bugs w research category selections
+    * fix bug w actions panel position in centered layout
+
+   * (2016-06-24)
+
+    * add category image buttons to research overview
+    * fix bugs w research overview layout
+    * add Known and Unknown categories to research overview
+    * add toggle topic to research overview
+
+   * (2016-05-28)
+
+    * fix bugs w shared storage items
+    * fix bugs w research access
+    * fix bugs w process event
+
+   * (2016-05-27)
+
+    * fix unity layout error
+
+   * (2016-05-24)
+
+    * update credits
+
    0.9.3.3
 
    * (2016-05-01)
