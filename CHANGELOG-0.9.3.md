@@ -1,6 +1,35 @@
    CHANGELOG for 0.9.3
    ===================
 
+   0.9.3.5
+
+   * (2016-07-24)
+
+    * fix bugs w shipping crew tooltip
+    * fix bugs w shipping region dropdown display
+    * fix bugs w unresponsive action menus
+    * fix bugs w Establish Trade Treaty action access
+    * fix bugs w action overlay in district view
+    * fix bugs w manage fountain
+    * fix bugs w release minister plot ownership
+    * fix bugs w release minister messaging
+    * fix bugs w international relations display
+    * fix bugs w transport unit selection display
+    * fix bugs w cart crafting requirements display
+    * add updated forum messaging
+    * add informative action access message
+    * add informative action button
+    * add expanded action feedback
+    * add expanded action options
+    * add action costs display to action description
+
+   * (2016-07-23)
+
+    * add compact action costs display
+    * add action overmain panel
+    * remove action popups
+    * remove css redundancies
+
    0.9.3.4
 
    * (2016-07-17)
