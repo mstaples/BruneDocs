@@ -1,9 +1,23 @@
    CHANGELOG for 0.9.3
    ===================
 
-   0.9.3.5
+   0.9.3.6
+
+   * (2016-08-30)
+
+    * add linear template option for Settlement choices to fix overlap readability issue
+
+   * (2016-08-20)
+
+    * add commandline access to all action options
 
    * (2016-07-24)
+
+    * fix bugs w multiple output actions
+
+   0.9.3.5
+
+   * (2016-07-30)
 
     * fix bugs w shipping crew tooltip
     * fix bugs w shipping region dropdown display
