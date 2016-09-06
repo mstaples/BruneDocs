@@ -1,6 +1,19 @@
    CHANGELOG for 0.9.3
    ===================
 
+   0.9.3.7
+
+   * (2016-09-05)
+
+    * add command to award new achievements to characters who have already qualified for them
+    * add achievement: Road more travelled
+    * add achievement: Landlord!
+    * add achievement: Land Stander
+    * add achievement: Nothing but the dog in me
+    * add achievement: Long live the king
+    * add image for Heavy is the head... achievement
+    * add achievement: Heavy is the head...
+
    0.9.3.6
 
    * (2016-08-30)
